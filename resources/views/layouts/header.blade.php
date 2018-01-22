@@ -1,17 +1,20 @@
 <div class="top-menu-secondary color-scheme-dark">
     <ul>
-        <li class="active">
-            <a href="#">Home</a>
+        <li class="@if ( Route::currentRouteName() == 'dashboard' || url()->current() == '/' ) active @endif">
+            <a href="{{ url('dashboard') }}">Home</a>
         </li>
-        <li>
-            <a href="#">Projects</a>
-        </li>
-        <li>
-            <a href="#">Customers</a>
+        <li class="@if ( strstr( url()->current(), 'tasks')  ) active @endif">
+            <a href="{{ url('tasks') }}">Tasks</a>
         </li>
         <li>
             <a href="#">Reports</a>
         </li>
+        <li>
+            <a href="#">Staff</a>
+        </li>
+        {{--<li>
+            <a href="#">Note/Notifications</a>
+        </li>--}}
     </ul>
     <div class="top-menu-controls">
         <div class="element-search hidden-lg-down">
@@ -140,7 +143,7 @@
                         </div>
                         <div class="logged-user-info-w">
                             <div class="logged-user-name">
-                                Maria Gomez
+                                {{ auth()->user()->name }}
                             </div>
                             <div class="logged-user-role">
                                 Administrator
@@ -165,7 +168,11 @@
                             <a href="#"><i class="os-icon os-icon-others-43"></i><span>Notifications</span></a>
                         </li>
                         <li>
-                            <a href="#"><i class="os-icon os-icon-signs-11"></i><span>Logout</span></a>
+                            {!! Form::open(['url' => 'logout', 'id' => 'logoutForm']) !!}
+                            <a href="#" onclick="document.getElementById('logoutForm').submit();">
+                                <i class="os-icon os-icon-signs-11"></i><span>Logout</span>
+                            </a>
+                            {!! Form::close() !!}
                         </li>
                     </ul>
                 </div>

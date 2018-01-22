@@ -11,5 +11,24 @@
 |
 */
 
-Route::get('/', 'HomeController@index');
-Route::get('/home', 'HomeController@index');
+// Route::get('/', 'HomeController@index')->name('dashboard');
+/**
+ *  By Ismail Ashour
+ */
+// Auth Routes
+Route::auth();
+
+// Dashboard Route
+Route::middleware('auth')->get('/', function () {
+    return View('dashboard.index');
+})->name('dashboard');
+Route::middleware('auth')->get('dashboard', function () {
+    return View('dashboard.index');
+})->name('dashboard');
+
+Route::middleware('auth')->group(function () {
+    Route::resource('tasks', 'TasksController');
+    Route::resource('tasksapi', 'TasksApiController');
+});
+
+

@@ -121,7 +121,12 @@ $(function () {
 
   // #4. DATE RANGE PICKER
 
-  $('input.single-daterange').daterangepicker({ "singleDatePicker": true });
+  $('input.single-daterange').daterangepicker({
+      "singleDatePicker": true,
+      locale: {
+          format: 'YYYY-MM-DD'
+      },
+  });
   $('input.multi-daterange').daterangepicker({ "startDate": "03/28/2017", "endDate": "04/06/2017" });
 
   // #5. DATATABLES

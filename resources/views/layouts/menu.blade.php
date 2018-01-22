@@ -20,7 +20,7 @@ START - Mobile Menu
             </div>
             <div class="logged-user-info-w">
                 <div class="logged-user-name">
-                    Maria Gomez
+                    {{ auth()->user()->name }}
                 </div>
                 <div class="logged-user-role">
                     Administrator
@@ -366,7 +366,7 @@ END - Mobile Menu
                         </div>
                         <div class="logged-user-info-w">
                             <div class="logged-user-name">
-                                Maria Gomez
+                                {{ auth()->user()->name }}
                             </div>
                             <div class="logged-user-role">
                                 Administrator
@@ -392,7 +392,11 @@ END - Mobile Menu
                             <a href="#"><i class="os-icon os-icon-others-43"></i><span>Notifications</span></a>
                         </li>
                         <li>
-                            <a href="#"><i class="os-icon os-icon-signs-11"></i><span>Logout</span></a>
+                            {!! Form::open(['url' => 'logout', 'id' => 'logoutForm']) !!}
+                            <a href="#" onclick="document.getElementById('logoutForm').submit();">
+                                <i class="os-icon os-icon-signs-11"></i><span>Logout</span>
+                            </a>
+                            {!! Form::close() !!}
                         </li>
                     </ul>
                 </div>
