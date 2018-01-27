@@ -12,7 +12,7 @@ $factory->define(\App\Task::class, function (Faker $faker) {
         'notes' => $faker->sentence(10),
         'account' => $faker->randomNumber(7, true) . '.' . $faker->randomNumber(4),
         'status' => $faker->numberBetween(0, 1, 3),
-        'due' => $faker->dateTime()->format('Y-m-d H:i:s'),
+        'due' => $faker->dateTime()->format('Y/m/d H:i:s'),
         'user_id' => $faker->uuid,
         'list' => $faker->randomElement(['Pricing'])
     ];

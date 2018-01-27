@@ -11,7 +11,6 @@
 |
 */
 
-// Route::get('/', 'HomeController@index')->name('dashboard');
 /**
  *  By Ismail Ashour
  */
@@ -29,6 +28,9 @@ Route::middleware('auth')->get('dashboard', function () {
 Route::middleware('auth')->group(function () {
     Route::resource('tasks', 'TasksController');
     Route::resource('tasksapi', 'TasksApiController');
+
+    Route::get('rentals', 'RentalsController@index');
+    Route::get('rentals/{rental}', 'RentalsController@show');
+
+    Route::get('inquires', 'InquiryController@index');
 });
-
-
