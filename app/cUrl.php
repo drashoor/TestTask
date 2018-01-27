@@ -13,10 +13,14 @@ trait cUrl
 {
     protected $client;
 
-    public function preparecUrl()
+    /**
+     * Prepare Guzzle Client To Call Api
+     * @param $type rentals|tasks|...
+     */
+    public function prepareApi($type)
     {
         $this->client = new \GuzzleHttp\Client([
-            'base_uri' => env('TOKEET_API_URL') . '/task/',
+            'base_uri' => env('TOKEET_API_URL') . '/' . $type . '/',
             'headers' => [
                 'Authorization' => env('TOKEET_APP_KEY')
             ],
@@ -32,9 +36,10 @@ trait cUrl
     protected function request($type, $id = null, $headers = [], $body = '')
     {
         $str = "{$id}?account=" . env('TOKEET_ACCOUNT_ID');
+
         return $this->client->request($type, $str, [
             'headers' => $headers,
-            \GuzzleHttp\RequestOptions::JSON => ['name' => 'bar']
+//            'json' => ['name' => 'bar']
         ]);
     }
 

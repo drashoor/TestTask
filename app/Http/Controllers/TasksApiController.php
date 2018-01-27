@@ -14,7 +14,7 @@ class TasksApiController extends Controller
     public function __construct()
     {
         // Prepare cUrl Client
-        $this->preparecUrl();
+        $this->prepareApi('task');
     }
 
     /**

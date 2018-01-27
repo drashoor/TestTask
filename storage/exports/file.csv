@@ -1,0 +1,501 @@
+Name,Email,Rental,Arrive,Depart,Recevied,Checkin,Checkout,Booking ID, Inquiry ID,Source,Booked,Adults,Children,Cost
+Zhen Yu Xu,zhenyu-ptey7y0zbx168inh@guest.airbnb.com,"Green Flat, Empoli",1/26/2018,1/28/2018,12/27/2017,15:00,10:00,c16f8f29-dbb8-4f9f-b8c3-00f360bf7178,HMD4E93RYB,airbnb,Yes,1,0,101
+Thiago,461937413-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),3/31/2018,4/2/2018,1/23/2018,12:00,11:00,44ddc660-2679-4880-8b37-6d31d3c1d56a,44ddc660-2679-4880-8b37-6d31d3c1d56a,airbnb,No,4,0,398
+Alba,461476213-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,5/11/2018,5/15/2018,1/22/2018,12:00,11:00,06fc38d4-8c6a-4fee-a417-060d6d440c27,06fc38d4-8c6a-4fee-a417-060d6d440c27,airbnb,No,1,0,420
+Alba Silvestre Teobromina,alba-u9gr52oiyryoeogb@guest.airbnb.com,Ibiza: Canto de los pajaros 2,3/29/2018,4/1/2018,1/23/2018,12:00,11:00,37278ccb-b8aa-4849-87c5-cff5eb2410e7,HMMYHNQ4R4,airbnb,Yes,3,0,223
+Ciara VKen,ciara-r66vpqv8m8ullevh@guest.airbnb.com,Ibiza: Canto de los pajaros 2,1/24/2018,1/27/2018,1/18/2018,11:00,10:00,0dcc0b2a-dba1-4096-9113-a416c9b0d16f,HMAEBKSF49,airbnb,Yes,2,0,147
+Alessia Martino,alessia-v5p69ac7q6pd9xh4@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",6/11/2018,6/15/2018,1/17/2018,12:00,11:00,b7f9117c-71f5-4c5e-9499-ec3eb6e38db0,HM5993C5NW,airbnb,Yes,2,0,636
+Charles Xu,charles-pe21agd49butfeg4@guest.airbnb.com,Emanuelas Apt (Mondo Novo),3/29/2018,3/31/2018,1/20/2018,12:00,11:00,706f1d7e-380d-4e12-afe2-30392bc39981,HMR5P9NX5K,airbnb,Yes,3,0,332
+Loes Dorssers,loes-w5bvnu583qwwwth5@guest.airbnb.com,Ibiza: Canto de los pajaros 2,3/19/2018,3/26/2018,1/21/2018,11:00,11:00,b251e540-9f49-4514-ae7e-ffb98922eaf4,HM984FACPJ,airbnb,Yes,2,0,391
+Mario Robles Moreno,mario-rgusid09vf36n5yl@guest.airbnb.com,"Loft Giove 1, Las Canteras",2/15/2018,2/19/2018,1/22/2018,15:00,10:00,c67b3029-a977-40f3-aeaf-a4baf6b29ac6,HMM83TA4N2,airbnb,Yes,3,0,294
+Manon,458503766-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,5/1/2018,5/5/2018,1/15/2018,12:00,11:00,6f28dd5d-84d7-44ab-9f36-f87cccb30959,6f28dd5d-84d7-44ab-9f36-f87cccb30959,airbnb,No,4,0,540
+Nicole Tak,nicole-dfwu9cqjbiiyglxs@guest.airbnb.com,Ibiza: Canto de los pajaros 2,2/17/2018,2/23/2018,1/19/2018,11:00,10:00,0c7160e6-1cad-48ee-aeab-01335e3ed5d0,HMHHS85FMH,airbnb,Yes,2,0,327
+Kevin Bernard,kevin-tkajp6pnfis4kmd9@guest.airbnb.com,"Loft Venere 3, Las Canteras",1/23/2018,2/20/2018,11/2/2017,15:00,10:00,c9125d44-7ab3-45ce-94dd-ae228e5c2dab,HM3EYZPZMD,airbnb,Yes,2,0,1371
+Mette Halgaard,mette-pdzwp6h1myr0hskw@guest.airbnb.com,"Loft Venere 3, Las Canteras",1/19/2018,1/23/2018,11/2/2017,15:00,10:00,30741ded-6a6b-45f5-ad36-81312f570f32,HMWHSNQMDT,airbnb,Yes,2,0,350
+Delphine,459009491-not-valid@airbnb.com,"San Gimignano Home, Filippo",7/19/2018,7/29/2018,1/16/2018,16:00,11:00,41d8c27b-ad1c-4a97-b52b-dfe41fccc1ac,HMADWMMN9T,airbnb,Yes,4,0,583
+Eileen McLachlan,eileen-st425n5yvqmiw7ba@guest.airbnb.com,"Loft Venere 3, Las Canteras",3/18/2018,3/23/2018,1/16/2018,15:00,10:00,4f3402e2-0498-419d-86ba-b28c087669fd,HMQS3H5CFF,airbnb,Yes,2,0,288
+Jennifer Mahbubani,jennifer-zujel4amht6sak9e@guest.airbnb.com,"Loft Marte 5, Las Canteras",2/24/2018,3/3/2018,1/15/2018,15:00,10:00,d8954039-c885-4307-8484-36c03ad00dc1,HMNHARQQAK,airbnb,Yes,2,0,418
+Philippe,458199711-not-valid@airbnb.com,"San Gimignano Home, Licia",7/10/2018,7/13/2018,1/14/2018,16:00,11:00,3e523bd5-afa7-4104-b74b-eafb966ec787,3e523bd5-afa7-4104-b74b-eafb966ec787,airbnb,No,4,0,182
+Antoine Chouinard,antoine-p73qyvoohc62y06v@guest.airbnb.com,Brunello House,1/12/2018,1/15/2018,12/10/2017,15:00,10:00,562dd9f9-261b-4a26-a7db-7df8a823508c,HMFSAPR5Y5,airbnb,Yes,1,0,143
+Vito De Luca,vito-d2gjj3lih372opo1@guest.airbnb.com,"Green Flat, Empoli",1/10/2018,1/13/2018,12/22/2017,15:00,10:00,64d434e2-5823-4d95-a237-63d2aaf0e8b7,HMT9WFTDDR,airbnb,Yes,1,0,137
+Margherita,456216512-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,3/3/2018,3/6/2018,1/9/2018,11:00,10:00,755fefc9-aee6-4221-93f3-3aeced584632,755fefc9-aee6-4221-93f3-3aeced584632,airbnb,No,1,0,185
+Alberto Caimi,alberto-bsjcxpk57ytkl2h9@guest.airbnb.com,"Green Flat, Empoli",1/6/2018,1/8/2018,1/3/2018,15:00,10:00,d3c97837-133f-48b0-a0a0-d11e4e6fb575,HM3MTANNTZ,airbnb,Yes,1,0,98
+Matthieu Serra,matthieu-06raqyoq5fp23qgc@guest.airbnb.com,"Loft Venere 3, Las Canteras",3/11/2018,3/18/2018,12/22/2017,15:00,10:00,4530afb2-9007-42f8-bc61-4bba52ed5b69,HMDDEZDDTP,airbnb,Yes,1,0,358
+Luis Sastre,luis-lffmhu4b1253r8td@guest.airbnb.com,Ibiza: Canto de los pajaros 2,1/3/2018,1/5/2018,12/22/2017,11:00,10:00,7b181492-6e78-4c79-a89a-420b51784eb3,HMC2TEXNYM,airbnb,Yes,2,0,105
+Indomito,450698190-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",1/20/2018,1/25/2018,12/22/2017,11:00,10:00,1594d7cf-e2b5-4208-a4d3-6b184cb87959,HMMBYZAMCF,airbnb,Yes,1,0,309
+Pieter Zuidema,pieter-301j0xwqt2j7z1he@guest.airbnb.com,"Loft Venere 3, Las Canteras",1/3/2018,1/10/2018,11/2/2017,15:00,10:00,66c1fcef-1e0f-430b-adec-c791ff7e6233,HMPNQ29JZT,airbnb,Yes,2,0,527
+María Gil,maria-1q3yng0z0dw46kby@guest.airbnb.com,Ibiza: Canto de los pajaros 2,1/1/2018,1/3/2018,12/31/2017,11:00,10:00,4b4d476b-f3f7-4da4-8e39-0e968de94b0d,HMET8KEDFY,airbnb,Yes,3,0,139
+Philippe,442477548-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),1/1/2018,1/5/2018,11/26/2017,11:00,10:00,7752e995-a884-4335-bf67-efe0088ae7c4,HMTKC52BNY,airbnb,Yes,5,0,788
+Helena Kilpiäinen,helena-k35vn4gzch4ssfkf@guest.airbnb.com,Rialto Terrace,12/30/2017,1/1/2018,9/23/2017,11:00,10:00,0dadc1c6-6702-4439-8eda-d711076fe595,HMMC94T5FK,airbnb,Yes,2,0,275
+Harri Jarvelainen,harri-j0mg1zzci0oh1thz@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/31/2017,1/3/2018,11/4/2017,15:00,10:00,b6e1b044-daa7-4407-bec8-963e85c3350c,HMAEYJKNJZ,airbnb,Yes,2,0,213
+Wei Ning Saik,weining-y49oc6dyp21lmlb7@guest.airbnb.com,Santa Croce Apartment (Giacomo),12/30/2017,1/1/2018,10/15/2017,11:00,10:00,0bd4510f-c637-4590-a004-cf4e4d973762,HMQFHE4MXJ,airbnb,Yes,4,0,398
+Hillary Bryan,hillary-6rcq31evss71f5br@guest.airbnb.com,San Polo (carampane),12/30/2017,1/2/2018,10/22/2017,11:00,10:00,c451974a-1c1b-4707-9059-9cb4b6119afe,HMXA3DYYST,airbnb,Yes,2,0,389
+Zamira,451208277-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,12/28/2017,1/1/2018,12/25/2017,11:00,10:00,9bfcd2b0-24a4-48ea-803d-91a7077dad10,HMDAQ8PMSR,airbnb,Yes,2,0,240
+Maija Karikoski-Kokki,maija-li4i37r7cz0x8pcu@guest.airbnb.com,"Loft Marte 5, Las Canteras",1/13/2018,1/27/2018,11/2/2017,15:00,10:00,4fba95fd-539f-48e0-bab8-33d4f4ece0e3,45K3EK,airbnb,Yes,2,0,744
+Justine,451407416-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,12/29/2017,1/2/2018,12/26/2017,11:00,10:00,76184d00-d566-4159-a930-4bf621833c0f,76184d00-d566-4159-a930-4bf621833c0f,airbnb,No,1,0,241
+Alba García,alba-43miqdoxrtd4szi0@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",5/11/2018,5/13/2018,12/23/2017,12:00,11:00,c1210981-ec33-4b0b-869c-318da10fea4f,HMEWYZ8XWT,airbnb,Yes,2,0,231
+Angelique Gastaud,angelique-81ofgfw71qetf3l7@guest.airbnb.com,Emanuelas Apt (Mondo Novo),12/26/2017,12/30/2017,11/8/2017,11:00,10:00,911d7b2d-e2da-48d8-b209-2f40d6f09018,HMEC8YHPMN,airbnb,Yes,4,0,685
+Joerg Warremann,joerg-tcbz4oebr4bcfzpm@guest.airbnb.com,"Loft Venere 3, Las Canteras",2/20/2018,3/2/2018,12/19/2017,15:00,10:00,24489875-6edf-41f1-ae87-3c1f73e3b74d,HMPDWNZ9ND,airbnb,Yes,1,0,502
+André Bergeron,andre-oehf6vfyp0bxg0o7@guest.airbnb.com,"Green Flat, Empoli",4/5/2018,4/9/2018,12/14/2017,16:00,11:00,0ceeeeff-f2d9-4790-b443-b5339ef3dc7d,HMEKTME8QW,airbnb,Yes,2,0,248
+Ali Alkhatib,ali-py6njvxu90hwhuq4@guest.airbnb.com,Rialto Terrace,12/18/2017,12/22/2017,11/29/2017,11:00,10:00,cb9224a6-99b1-433c-9c94-39dff25cec1d,HMPTXKJXHD,airbnb,Yes,1,0,292
+Giulio Tabaletti,giulio-6vfug4irpyh8dcny@guest.airbnb.com,Brunello House,12/18/2017,12/20/2017,12/5/2017,15:00,10:00,7b15de8c-e4ae-42f0-8988-e2167ce4fb68,HMSCRDMXHE,airbnb,Yes,1,0,77
+Eva Schough Tarandi,eva-45okzo37fl3m2qkd@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/27/2017,12/31/2017,11/2/2017,15:00,10:00,13c8e377-de35-46b0-8a79-e18bf5c1d436,HMSE29A2FP,airbnb,Yes,2,0,350
+Tom Woodnut,tom-7erqtk34hs2yojk2@guest.airbnb.com,"Loft Giove 1, Las Canteras",12/14/2017,12/21/2017,12/12/2017,15:00,10:00,e08af260-a7b4-4878-8463-b01fa409c954,HMFNQ25QN9,airbnb,Yes,2,0,361
+Erina Oya,erina-x39zazoe70psrt2p@guest.airbnb.com,"Green Flat, Empoli",12/13/2017,12/15/2017,11/2/2017,15:00,10:00,17031846-3f82-4308-9ac9-0d45bf56f54a,HMQP83TCY4,airbnb,Yes,1,0,103
+Morgan Garza,morgan-b8cg2r5d515wrrj6@guest.airbnb.com,Brunello House,12/14/2017,12/17/2017,12/11/2017,15:00,10:00,63aacd02-2bd5-4b62-9f7b-afa9b128c797,HMRAE8RJJB,airbnb,Yes,1,0,115
+Quentin Dwyer,quentin-drm5r4qegicifie8@guest.airbnb.com,Rialto Terrace,12/7/2017,12/14/2017,11/23/2017,11:00,10:00,fdb71a2f-7603-46a5-b12b-f4076e533b86,HMWZPAZD2P,airbnb,Yes,2,0,420
+Nerea Altuna,nerea-lx0c1oo4dxuyvjbd@guest.airbnb.com,"Loft Marte 5, Las Canteras",12/8/2017,12/11/2017,11/3/2017,15:00,10:00,1b7dc1dc-6c01-4278-b755-823c24347e81,HMMNRK3MWE,airbnb,Yes,2,0,247
+Gise Dransfeld-Niessen,gise-d2i7jtsfzfabxb6n@guest.airbnb.com,"Loft Marte 5, Las Canteras",12/11/2017,12/22/2017,11/2/2017,15:00,10:00,6455a284-df7c-4a77-af5a-438a15a03c1e,HMQRFA2EZM,airbnb,Yes,2,0,883
+Jennifer Monilall,jennifer-e2yzf4vc5o300u45@guest.airbnb.com,"Loft Marte 5, Las Canteras",12/5/2017,12/8/2017,11/23/2017,15:00,10:00,bbef5d99-8b70-4d0a-8b8e-8d70d1ba81d4,HMRFCHWCKZ,airbnb,Yes,2,0,212
+Salvatore,445490944-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),12/8/2017,12/10/2017,12/4/2017,11:00,10:00,cfe2b711-5df9-451e-9953-113c1b30f2bb,cfe2b711-5df9-451e-9953-113c1b30f2bb,airbnb,No,2,0,248
+Tania Urbina Ros,tania-lsgddvnbgazrvlcj@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/6/2017,12/10/2017,11/30/2017,15:00,10:00,0b51d71f-cacc-4a2b-85b5-bf5f000d10f3,HMQXR4JB89,airbnb,Yes,2,0,236
+Huimin,445155567-not-valid@airbnb.com,Brunello House,12/16/2017,12/18/2017,12/3/2017,15:00,10:00,4a5e00aa-2787-4f46-adc6-3377021a7482,4a5e00aa-2787-4f46-adc6-3377021a7482,airbnb,No,2,0,110
+Dave Morgan,dave-idaa7xwsf2wx8quv@guest.airbnb.com,"Loft Marte 5, Las Canteras",11/30/2017,12/5/2017,11/2/2017,15:00,10:00,4eb46b70-a055-45bc-a103-c3f3ca801abf,HM8FNMKASQ,airbnb,Yes,1,0,398
+Francisco Lopez,francisco-vsituc5qxp2yxfeg@guest.airbnb.com,Brunello House,12/1/2017,12/4/2017,11/27/2017,15:00,10:00,3cdc7a21-6f57-4543-97c0-86541ab86fa5,HMWD9X5BNP,airbnb,Yes,1,0,119
+Joergen Larsen,joergen-f3z5spuavb6cph5x@guest.airbnb.com,"Loft Venere 3, Las Canteras",11/29/2017,12/6/2017,11/2/2017,15:00,10:00,55a3367a-26b7-4ec9-a6e7-fa7b1bb293d2,HM5AFDXZC8,airbnb,Yes,2,0,404
+Federica,441991925-not-valid@airbnb.com,Brunello House,11/27/2017,11/30/2017,11/25/2017,15:00,10:00,1816270e-3490-4a90-aed0-ad1748d56c28,1816270e-3490-4a90-aed0-ad1748d56c28,airbnb,No,1,0,124
+Tom Warda,tom-l49jnbgkb57ugam9@guest.airbnb.com,"Loft Venere 3, Las Canteras",3/3/2018,3/10/2018,11/24/2017,15:00,10:00,35fc899b-35da-4409-a118-c1801b8630bc,HMXMQYMXJR,airbnb,Yes,1,0,357
+Roland Soecknick,roland-tu2gqtjiwnhr1bj8@guest.airbnb.com,Santa Croce Apartment (Giacomo),11/24/2017,11/26/2017,9/17/2017,11:00,10:00,e31a2712-1c8a-4e24-b1be-6b95c5b3c986,HMQ4HPK3XA,airbnb,Yes,3,0,276
+Ana Maria Morales Aguilar,anamaria-ri4uensjgyuxcbx5@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/6/2017,12/8/2017,11/3/2017,15:00,10:00,49c1c26e-5dfa-48d8-99c3-2372c5b07861,HMD33WQJ3W,airbnb,No,3,0,165
+Moreen Liao,moreen-u5q2zlpllmuf119a@guest.airbnb.com,Brunello House,11/20/2017,11/23/2017,11/2/2017,15:00,10:00,b031c8a2-fd33-4be4-934c-3d61ac042a18,HMR92QZ35Y,airbnb,Yes,1,0,133
+François Grosso,francois-b05g8vxr3w2r9rjy@guest.airbnb.com,Rialto Terrace,11/20/2017,11/23/2017,10/23/2017,11:00,10:00,50902a37-9cb7-494f-8549-abe0b66875d8,HMR4TPTASJ,airbnb,Yes,2,0,230
+Mathias Nordström,mathias-i504jvq91u594aqv@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",11/21/2017,11/28/2017,11/6/2017,11:00,10:00,9b770e5b-2b7f-4df1-aab2-002ca3ec3b63,HMC5MBXJXZ,airbnb,Yes,1,0,425
+Nicholas Brotohusodo,nicholas-cg3qlnc6figz8357@guest.airbnb.com,Brunello House,11/16/2017,11/19/2017,11/11/2017,15:00,10:00,16408aff-3d31-4e5c-968c-c527bb40e6fa,HMF8NDQTB4,airbnb,Yes,1,0,117
+Anna Melander,anna-ai7okqqgzep9a6pu@guest.airbnb.com,Emanuelas Apt (Mondo Novo),11/15/2017,11/19/2017,8/30/2017,11:00,10:00,2e325c0b-2d10-45f0-99c5-ffe80bbd0e67,HMJY8HWAJZ,airbnb,Yes,3,0,521
+Vincent Dromer,vincent-m3hfvrhvia4nzpze@guest.airbnb.com,Ibiza: Canto de los pajaros 2,11/18/2017,11/21/2017,11/11/2017,11:00,10:00,08e10d72-d5b5-49b5-8943-c61b0a9f9cc2,HM4NK88THY,airbnb,Yes,2,0,147
+Karen Perriello,karen-etyr7l591951a6zt@guest.airbnb.com,San Polo (carampane),11/17/2017,11/19/2017,10/13/2017,11:00,10:00,37e640dd-7040-4418-9217-fd3f5fba3013,HMNKYYFTTP,airbnb,Yes,2,0,166
+Valentina Psyco,438917489-not-valid@airbnb.com,Brunello House,6/13/2018,6/16/2018,11/17/2017,16:00,11:00,9fd6facf-f36c-4ad1-9516-4123b36a15bb,9fd6facf-f36c-4ad1-9516-4123b36a15bb,airbnb,No,1,0,213
+Franka Fischer,franka-ed1on84cvcs46f6m@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/22/2017,12/26/2017,11/2/2017,15:00,10:00,88e730ce-b3c9-4493-9bbc-e64fc02050d3,HMDFDQ52CQ,airbnb,Yes,2,0,278
+Maxime,417931200-not-valid@airbnb.com,Rialto Terrace,11/14/2017,11/19/2017,10/1/2017,11:00,10:00,511ec2a4-3970-4003-b025-5bd54cf976d5,HM8Z3BPEJH,airbnb,Yes,2,0,357
+Liu Yu-Hsuan,liu-9bwkebc9nkwfpxox@guest.airbnb.com,Brunello House,11/1/2017,11/14/2017,11/2/2017,15:00,10:00,5ae6d532-3857-4088-b11f-001edf5579e4,HMCN3DFF4B,airbnb,Yes,1,0,453
+Alex,422468412-not-valid@airbnb.com,San Polo (carampane),11/11/2017,11/13/2017,10/10/2017,11:00,10:00,0f933240-8e00-4f8b-8e4c-b12d704c85c1,HMFW4XS55T,airbnb,Yes,2,0,165
+Clémentine Gelber,clementine-vx8x99bspe0ryy66@guest.airbnb.com,Emanuelas Apt (Mondo Novo),11/10/2017,11/14/2017,10/3/2017,11:00,10:00,76745ef9-b5ff-4a96-bb6f-2be36c90080c,HMTYBNSTYP,airbnb,Yes,2,0,315
+Ben Keegan,ben-bj92g1jrx5bo3gra@guest.airbnb.com,"Loft Marte 5, Las Canteras",11/10/2017,11/17/2017,11/2/2017,15:00,10:00,9cc382df-317b-479c-8c76-afdc5dc9e43a,HMZCZATCPH,airbnb,Yes,2,0,494
+Nathalie Destruel,nathalie-y5jg8bhz60q9p3dn@guest.airbnb.com,Santa Croce Apartment (Giacomo),11/2/2017,11/6/2017,9/27/2017,11:00,10:00,f36be457-cab0-4bcb-a4f5-980a09dfe567,HMT2TQYZHA,airbnb,Yes,4,0,540
+Carlo,434440863-not-valid@airbnb.com,"Green Flat, Empoli",12/8/2017,12/10/2017,11/5/2017,15:00,10:00,9fadbae2-4255-4c85-8b3a-1134323b3c12,9fadbae2-4255-4c85-8b3a-1134323b3c12,airbnb,No,2,0,143
+Paulina Resler,paulina-nynbljzu38jczvj7@guest.airbnb.com,"Loft Venere 3, Las Canteras",11/6/2017,11/13/2017,11/2/2017,15:00,10:00,27764c06-52a1-4f27-ac1f-6a5e77adbf68,HMBX34BASK,airbnb,Yes,2,0,423
+Marie Johnson,marie-yv2pm450jjah5dth@guest.airbnb.com,San Polo (carampane),11/4/2017,11/7/2017,9/29/2017,11:00,10:00,06274af4-8a83-4316-ae36-e1bb08a0543e,HMQ3RFM5YZ,airbnb,Yes,2,0,231
+PatriesWim In Frankrijk,patrieswim-vjax4a7lrtqq7txv@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",10/29/2017,11/7/2017,9/29/2017,11:00,10:00,1f12c107-4ff1-47e1-9278-81b2eb601719,HMRRY89JH9,airbnb,No,1,0,675
+Maria Saieva,maria-jo8eep9s5wzzzmmd@guest.airbnb.com,Rialto Terrace,11/1/2017,11/5/2017,9/14/2017,11:00,10:00,44b556cf-5389-4790-aee6-d267d0f95eee,HMYHCPAKJ2,airbnb,Yes,2,0,368
+Indre Ruseckaite,indre-dultampp6wf2ehut@guest.airbnb.com,Altana Venice Apartment,11/1/2017,11/4/2017,10/7/2017,11:00,10:00,c6d2b292-9956-476e-b984-6cd49386094f,HMWBFTNNTS,airbnb,Yes,2,0,262
+Jamie,432256403-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,11/1/2017,11/3/2017,10/31/2017,11:00,10:00,db4bba2c-d1af-4b00-8e9f-0a4bd7d7bbe0,HMTAD92EWA,airbnb,Yes,2,0,117
+Stanislaw Milkowski,stanislaw-jl7e8x1q1och8fga@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/29/2017,11/1/2017,10/5/2017,11:00,10:00,1f523130-2f0d-469d-98c3-af0e8ea6f36a,HMXNBMEBXJ,airbnb,Yes,2,0,362
+Silke Heimburger,silke-ov0kthb4ypcfmf3e@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/30/2017,11/2/2017,9/28/2017,11:00,10:00,5feebcff-9533-4b67-94df-33304a52861d,HMXXS3K33T,airbnb,Yes,4,0,483
+Andrea Seidenschwang,andrea-j0uaa7y7di6jer2e@guest.airbnb.com,Rialto Terrace,10/30/2017,11/1/2017,10/13/2017,11:00,10:00,7db765dc-c2bd-4be8-a5bf-420d44211891,HMKDW9B5K9,airbnb,Yes,2,0,197
+Debbie Gilkey Beckwith,debbie-i4nxg8290hc2m18c@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/27/2017,10/29/2017,9/11/2017,12:00,10:00,72120855-534e-4796-978f-2a4438c75b0e,HMTBDWA5HH,airbnb,Yes,4,0,370
+Robert Knowlton,robert-23i889gidg9muxcp@guest.airbnb.com,San Polo (carampane),10/29/2017,10/31/2017,10/1/2017,11:00,10:00,fff56786-6ab4-4acb-9a08-5808146ecc21,HMZ43BCT4M,airbnb,Yes,1,0,243
+Yu Liu,yu-t121nc0f3bsvxyds@guest.airbnb.com,Ibiza: Canto de los pajaros 3,10/29/2017,11/1/2017,10/28/2017,11:00,10:00,1395ff0a-ec05-41d0-a23b-5e3c07440c4d,HM9XD43DER,airbnb,Yes,2,0,251
+Melanie Laibl,melanie-13z3mwslfexawpd9@guest.airbnb.com,Rialto Terrace,10/26/2017,10/29/2017,8/20/2017,12:00,10:00,7f1ecd6a-5749-4c2a-80f2-319a82f6b0b2,HMYK28XZ59,airbnb,Yes,2,0,426
+Amanda Vandenbrand,amanda-m7e6o5fxf5hm82w0@guest.airbnb.com,San Polo (carampane),10/27/2017,10/29/2017,9/23/2017,12:00,10:00,351a6819-dbcd-4f3d-a12a-36a36f53d656,HM3Y94WDBF,airbnb,Yes,2,0,243
+Sean Xu,sean-640y0ac26c6y5cdm@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/24/2017,10/27/2017,10/13/2017,12:00,11:00,2ae73cfd-719c-4f50-b2ae-6121ab11505d,HMS5CFP29P,airbnb,Yes,3,0,416
+Stefan,411570738-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),10/26/2017,10/29/2017,9/18/2017,12:00,10:00,c6e5fd2e-93b4-4b56-bad2-74afe07078ab,HMX3XX9FQ4,airbnb,Yes,3,0,476
+Hugo & Trang Bouchard & Phan,hugotrang-b0pkralaoiyiq28t@guest.airbnb.com,San Polo (carampane),10/25/2017,10/27/2017,10/22/2017,12:00,11:00,2da9780d-0a0c-4b21-b19b-746c412f0eb6,HMQX89TCE3,airbnb,Yes,2,0,186
+Leandra Wiedmer,leandra-6q2v3adhvefqrx85@guest.airbnb.com,Ibiza: Canto de los pajaros 2,10/24/2017,10/30/2017,10/24/2017,12:00,10:00,e4031478-1678-4766-862b-fffc8b17ad11,HM9AFTMSC9,airbnb,Yes,2,0,309
+Oliver Graham,oliver-ox6ih7d5bgbp2tiu@guest.airbnb.com,Ibiza: Canto de los pajaros 3,10/23/2017,10/28/2017,10/15/2017,12:00,11:00,e6b8904b-6685-4392-8005-8fc716f7a157,HMY2FT9KM8,airbnb,Yes,1,0,308
+Verdiere,407202578-not-valid@airbnb.com,Rialto Terrace,10/23/2017,10/26/2017,9/9/2017,12:00,11:00,28ad8a51-6834-442d-b181-37a023032621,HMZKHDFDME,airbnb,Yes,2,0,369
+George Orn,george-s4cpqo4gkrxnodym@guest.airbnb.com,San Polo (carampane),10/23/2017,10/25/2017,9/23/2017,12:00,11:00,03f8e25b-c6f2-442f-8c56-51cb46154aa2,HMF4FE9EKC,airbnb,Yes,2,0,243
+John Anicker,john-9r6443q3n64ew9ly@guest.airbnb.com,Altana Venice Apartment,10/22/2017,10/24/2017,10/13/2017,12:00,11:00,9a0a6585-e28e-4629-a848-13dee78b6edf,HMM8XP9QTT,airbnb,Yes,5,0,353
+Stefano Tiso,stefano-9fgrvigs8zw6oov2@guest.airbnb.com,Ibiza: Canto de los pajaros 2,10/21/2017,10/24/2017,10/2/2017,12:00,11:00,c5471956-5d9e-41a2-8147-f64cecb9b20b,HMMRQ53WQ4,airbnb,Yes,3,0,293
+Evan Spealman,evan-id6bktnp3lwn3g8z@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/20/2017,10/22/2017,8/19/2017,12:00,11:00,9d1db1c5-5835-4094-9e2a-a1856224caa7,HMCKZ5PN2E,airbnb,Yes,3,0,343
+Thorbjørn Tønder,425333377-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),11/24/2017,11/27/2017,10/16/2017,11:00,10:00,e6b9f53c-7f64-452f-bb65-39b3cfd02661,e6b9f53c-7f64-452f-bb65-39b3cfd02661,airbnb,No,2,0,260
+Gina Graziano,gina-zrhc2ipi3imla2y4@guest.airbnb.com,Rialto Terrace,10/18/2017,10/20/2017,9/17/2017,12:00,11:00,ef140d3d-2b65-495d-96b5-bda9835ba64e,HMEYS92BWZ,airbnb,Yes,2,0,238
+Atle Igland,atle-jsjw3qhfl3rqnrgz@guest.airbnb.com,San Polo (carampane),10/16/2017,10/18/2017,10/16/2017,12:00,11:00,bed127e7-0709-43af-90e2-a7ebe7dad678,HMK5MF4SEB,airbnb,Yes,2,0,166
+Grace Euna Kim,graceeuna-p97ytc3gjbb4ynsb@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/16/2017,10/19/2017,10/9/2017,12:00,11:00,3bcaf6da-a182-4790-b05b-b1ef706cc47e,HMFTJBYK5K,airbnb,Yes,2,0,331
+Giada,420744331-not-valid@airbnb.com,San Polo (carampane),11/10/2017,11/12/2017,10/7/2017,11:00,10:00,ee2ab96e-d8d6-4c81-88f0-b56c4884fd88,ee2ab96e-d8d6-4c81-88f0-b56c4884fd88,airbnb,No,1,0,173
+Adriana Zabala,adriana-tyibgy8yvwdpeqj4@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/14/2017,10/16/2017,9/11/2017,12:00,11:00,8f11eba5-bd44-4fa0-8aa2-070906a45b06,HMRXJHY5CC,airbnb,Yes,3,0,333
+Ross Bannerman,ross-wehb7kz72gyu8fjc@guest.airbnb.com,Rialto Terrace,10/15/2017,10/17/2017,9/24/2017,12:00,11:00,c86ad5ae-cc9c-4d33-a8e7-422744cd8ce4,HMPFBNTCT9,airbnb,Yes,2,0,236
+Bill Petkovski,bill-s4qd7xyqe1cqpve8@guest.airbnb.com,Altana Venice Apartment,10/14/2017,10/16/2017,10/9/2017,12:00,11:00,f6cb2080-4267-41d7-aad0-c41cc80c8a03,HMP3XY92R3,airbnb,Yes,4,0,368
+Ed Dawson,ed-7z3ie0t3e1ixu832@guest.airbnb.com,Ibiza: Canto de los pajaros 2,10/15/2017,10/21/2017,10/6/2017,12:00,11:00,98c6c2d5-9b8a-4181-b826-a89394010738,HM2NACA4NA,airbnb,Yes,2,0,434
+Truc,407100100-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),10/14/2017,10/16/2017,9/9/2017,12:00,11:00,9c9e1a6d-5745-407c-bc5b-6086468d72ae,HMESEWWYZT,airbnb,Yes,3,0,331
+Jeffrey Ding,jeffrey-xyknvzxmytxvzx27@guest.airbnb.com,San Polo (carampane),10/13/2017,10/15/2017,10/2/2017,12:00,11:00,134fb769-5b8d-43a8-bb7e-3905c16a0718,HMJ98E3B9A,airbnb,Yes,2,0,243
+Hailey Faust,hailey-djuj45lofqeyssha@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/11/2017,10/14/2017,9/4/2017,12:00,11:00,a43a5f53-864b-42a5-af9c-f8e5872f0520,HMWDYS2TBJ,airbnb,Yes,2,0,434
+Nathalie Pennings,nathalie-tkfk54e0sc3q0kvn@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/5/2017,10/8/2017,7/14/2017,12:00,11:00,00ac2109-af63-488f-babf-c43d8ac2f90e,HMXN4KNQ42,airbnb,Yes,4,0,587
+Charlotte Van Rooyen,charlotte-hmptqtvkgxfokxrc@guest.airbnb.com,Rialto Terrace,10/6/2017,10/8/2017,8/18/2017,12:00,11:00,9e0d2d24-ada2-4563-a317-8b52ec90ec4b,HMT9Y22D9P,airbnb,Yes,2,0,294
+Pien Verburg,pien-tkjqy7m6orekn1fa@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/8/2017,10/14/2017,7/14/2017,12:00,11:00,e13e366f-c57b-4d5e-abef-acda23b73ee9,HMMCS4SZJF,airbnb,Yes,4,0,1018
+Hans Behrendt,hans-kahit581ag0vnde3@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/2/2017,10/7/2017,7/20/2017,12:00,11:00,e338da28-5101-45f4-bca6-94d7753e6bb0,WBN2SF,airbnb,Yes,4,0,857
+Yvonne,394284325-not-valid@airbnb.com,Rialto Terrace,10/12/2017,10/15/2017,8/16/2017,12:00,11:00,c3e38ce3-38b7-4a07-9f40-9c757a6617d2,HM4WC4B4SY,airbnb,Yes,2,0,426
+Cristina Seminario,cristina-orv5foi3t6jnrque@guest.airbnb.com,Ibiza: Canto de los pajaros 2,10/11/2017,10/14/2017,8/30/2017,12:00,11:00,2b3a4e02-ca6e-4e9b-ab19-a8e0128ff980,HMFZPFPMFA,airbnb,Yes,2,0,309
+Valentina Grossi,valentina-hzz732p68ccch3rl@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",10/4/2017,10/8/2017,8/30/2017,12:00,11:00,a3ec1651-35f5-4431-be80-0bf29040fc3c,HMRF29Z5PH,airbnb,Yes,2,0,404
+Emily Pang,emily-agkxrtztmvpk1sl1@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/1/2017,10/4/2017,8/22/2017,12:00,11:00,3bd2e5d2-1a78-4ba0-bc57-a170dc029948,HMEK3RYJHK,airbnb,Yes,2,0,433
+Michiel Stapper,michiel-tm86l5je8m13gel1@guest.airbnb.com,Ibiza: Canto de los pajaros 3,10/5/2017,10/8/2017,9/30/2017,12:00,11:00,747eebb1-f388-4dc6-a78c-7e8ce7e0b3f4,HMXX9NM43N,airbnb,Yes,1,0,221
+Martijn Birnie,martijn-8xubs6ofrte2dfd4@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",10/22/2017,10/28/2017,9/28/2017,12:00,11:00,6d6bbc9b-0331-4fca-8f1a-7bd1422baab4,HMSA9AKDW2,airbnb,Yes,2,0,598
+Jonathan,417824389-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,8/23/2018,8/27/2018,10/1/2017,12:00,11:00,908cf88c-a30f-4efa-88cf-e6c37493baff,908cf88c-a30f-4efa-88cf-e6c37493baff,airbnb,No,1,0,280
+Aline,394907696-not-valid@airbnb.com,Rialto Terrace,10/1/2017,10/3/2017,8/17/2017,12:00,11:00,36b4f803-41ca-43fc-8c10-1a695763e764,HMPYSNQXWA,airbnb,Yes,2,0,294
+Bernadette Knaggs,bernadette-abc1yfcmkc3l8zhp@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/29/2017,10/1/2017,7/18/2017,12:00,11:00,0c8b3cf8-0f9b-4fca-bdc6-9ff582d68e4e,HMTWH3DEFE,airbnb,Yes,4,0,408
+Tony Pascoe,tony-rx9ichgv4il9x7uh@guest.airbnb.com,Rialto Terrace,9/29/2017,10/1/2017,7/23/2017,12:00,11:00,595b41bd-a420-42c2-a9f9-d07af6b8b8b5,HMKHWBXHKA,airbnb,Yes,2,0,293
+Marco Graziano,marco-6zj8q7yxjyjwgbl7@guest.airbnb.com,San Polo (carampane),9/29/2017,10/1/2017,7/14/2017,12:00,11:00,d0bea84b-e811-4f00-bd36-c84df705ec03,HMR9MTREWP,airbnb,Yes,2,0,231
+Christophe,416467230-not-valid@airbnb.com,San Polo (carampane),11/11/2017,11/13/2017,9/28/2017,11:00,10:00,50290e7a-9393-4f8b-921e-771524ca0711,50290e7a-9393-4f8b-921e-771524ca0711,airbnb,No,2,0,173
+Giulia Mocenigo,giulia-r8bx24pjskyn1ees@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",9/28/2017,10/2/2017,9/23/2017,12:00,11:00,782488a5-d679-4363-b421-c65ae9e378d4,HMR88D8BZD,airbnb,Yes,2,0,367
+Nadine Rapp,nadine-72tnbianovkzl7ib@guest.airbnb.com,Ibiza: Canto de los pajaros 3,9/28/2017,10/3/2017,9/9/2017,12:00,11:00,c6d92a5f-033a-48f4-be9b-3d1fd4f7ea56,HMN4BJASXJ,airbnb,Yes,2,0,608
+Aleksandra,413362102-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),9/27/2017,9/29/2017,9/21/2017,12:00,11:00,e270838d-bb96-4826-b0f9-0b1c10c38abf,HMFWNZS8CM,airbnb,Yes,4,0,333
+Cheryl Hawthorne,cheryl-qla5irzcka5aune9@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/25/2017,9/27/2017,7/20/2017,12:00,11:00,83f046d6-90a9-4a0e-8f93-70343f3a0a18,WBB8CZ,airbnb,Yes,2,0,296
+Brad Piatt,brad-z3u6lox683jmfivf@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/27/2017,9/29/2017,8/23/2017,12:00,11:00,39d659dd-6117-4daa-8fd7-ffa34545e584,HMS5M53KCQ,airbnb,Yes,4,0,408
+Diana Zepeda,diana-qxiyz677zqpi6d2h@guest.airbnb.com,Rialto Terrace,9/27/2017,9/29/2017,8/21/2017,12:00,11:00,bbcf9d0d-2da1-4e38-a48a-e00eace4bb5e,HMYTQ5CZPN,airbnb,Yes,2,0,255
+Bethany MacDonald,bethany-dgnlzm3dzxuftvl5@guest.airbnb.com,Rialto Terrace,9/25/2017,9/27/2017,7/17/2017,12:00,11:00,ff593222-1671-4ebf-90fb-01b4e8ca337c,HMMSTBKCKJ,airbnb,Yes,2,0,312
+Davin,396097991-not-valid@airbnb.com,San Polo (carampane),9/25/2017,9/28/2017,8/19/2017,12:00,11:00,b8c0fadd-8aee-4105-98bd-52a2bf74b127,HMR3DX8JAQ,airbnb,Yes,2,0,376
+Andrew Duma,andrew-oceycffju4q4x580@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/24/2017,9/26/2017,9/17/2017,12:00,11:00,b99e3b65-bcb4-4adf-ac6e-b8e34e0e0c76,HMMQQE2MKA,airbnb,Yes,2,0,238
+Vanessa,402486091-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,9/23/2017,10/3/2017,8/31/2017,12:00,11:00,770b1ba9-5a56-4874-9e22-62ad841aa50e,HM5QJSFB4J,airbnb,Yes,2,0,1137
+Dan Chan,dan-tru6rlb1usdrcdwk@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/22/2017,9/25/2017,7/19/2017,12:00,11:00,7f9a6307-091b-41ad-aa68-14551f58395d,HM8X9DNXTQ,airbnb,Yes,3,0,476
+Joe Popplewell,joe-chxivjx3ndf03cu6@guest.airbnb.com,San Polo (carampane),9/22/2017,9/25/2017,7/14/2017,12:00,11:00,9b909e1e-7f97-42e6-8a65-bcf7f30450f9,HMW24CZCHM,airbnb,Yes,2,0,365
+Daria,412760722-not-valid@airbnb.com,San Polo (carampane),10/22/2017,10/24/2017,9/20/2017,12:00,11:00,69f92bd0-b71e-4baa-84f4-c9b9d061c203,69f92bd0-b71e-4baa-84f4-c9b9d061c203,airbnb,No,2,0,255
+John Lovato,john-r4esal2vwyfvfzh4@guest.airbnb.com,Rialto Terrace,9/22/2017,9/24/2017,7/26/2017,12:00,11:00,952aff34-309b-47a0-889b-5b568d588675,HM43YBPT9K,airbnb,Yes,2,0,313
+Catherine Munro,catherine-c2nbcdlkh1zo9433@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/21/2017,9/24/2017,8/6/2017,12:00,11:00,97200655-9130-488a-afb1-9d57d8f1dc65,HMXJN5ZYF2,airbnb,Yes,2,0,473
+Rosa Cristina Cayupi,rosacristi-nuu8fcupqrddekeo@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/17/2017,9/22/2017,7/21/2017,12:00,11:00,1480e6a6-15c5-47f3-8e40-b6571846675b,HM2W25XCN4,airbnb,Yes,3,0,761
+Yi Mu,yi-5j4qq8aavo3t1b0c@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/19/2017,9/21/2017,8/30/2017,12:00,11:00,03c1cfce-45e7-4a10-8aa0-c29fc585ea35,HMCJZX22Q8,airbnb,Yes,3,0,370
+Scott Thomas,scott-70wicqj9dh9z7m2p@guest.airbnb.com,San Polo (carampane),9/20/2017,9/22/2017,8/27/2017,12:00,11:00,2342f5b8-a002-4d73-83bf-68f97decd5b2,HMZJQ9Z85N,airbnb,Yes,2,0,263
+Natacha,natacha-ygaie8t16jmto7c3@guest.airbnb.com,Rialto Terrace,9/19/2017,9/21/2017,7/26/2017,12:00,11:00,da57cc4a-ddff-4d22-bdff-7459bf503ffb,HMTZXTKXMM,airbnb,Yes,2,0,274
+Line Richard,line-zgmn50yy0e6yg6hf@guest.airbnb.com,Rialto Terrace,10/8/2017,10/11/2017,9/16/2017,12:00,11:00,52bbd934-13ad-43e2-a0fb-28b77857ac0b,HMHP2T4QJ4,airbnb,Yes,2,0,369
+Xavier Hellin,xavier-g4cgiamvsbomfe9h@guest.airbnb.com,Ibiza: Canto de los pajaros 2,9/17/2017,9/20/2017,8/30/2017,12:00,11:00,2c7777b4-26ad-4a59-9a91-0621d235fb0c,HM2WEQ35B5,airbnb,Yes,2,0,424
+Julieanne Palmer,julieanne-tr5ita7ozbknhua2@guest.airbnb.com,Rialto Terrace,9/14/2017,9/18/2017,8/1/2017,14:00,11:00,43f021a2-883e-424b-8782-bc2e571bf59c,HMBPBKRQ3D,airbnb,Yes,2,0,577
+Ted Ryon,ted-l8tij5h6p6kf79e8@guest.airbnb.com,San Polo (carampane),9/17/2017,9/20/2017,8/31/2017,12:00,11:00,914a17e8-b19a-4f9d-8dbb-d2f524b21576,HMXWKQZWQH,airbnb,Yes,2,0,377
+Onno Vinken,onno-iyqhdwxqzski54ry@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/16/2017,9/19/2017,8/17/2017,12:00,11:00,6820373c-b1dd-4188-9f8d-3a3a8e37a716,HM5NMSSXF4,airbnb,Yes,2,0,473
+Julia Dülks,julia-i4c2252zwuprmos6@guest.airbnb.com,San Polo (carampane),9/15/2017,9/17/2017,7/14/2017,12:00,11:00,4d82a5f9-a54a-4235-a94f-5fd7bcbb1a0b,HMCKAMAHHE,airbnb,Yes,2,0,232
+Miklos Herczeg,miklos-t60tm4fo1jke6og2@guest.airbnb.com,Ibiza: Canto de los pajaros 3,9/16/2017,9/25/2017,7/11/2017,12:00,11:00,62f51c97-1b86-4777-bbfa-1e1b8a1721d9,HM9PTCSMAW,airbnb,Yes,2,0,971
+Prateek User,prateek-t90tjvhceikhfu07@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/14/2017,9/17/2017,8/7/2017,12:00,11:00,052676f4-5bf4-4e17-8731-1e79a532d2fc,HMAYP8MFDX,airbnb,Yes,3,0,476
+Christoph Johann,christoph-p3cxyzgxrdll3kmu@guest.airbnb.com,Rialto Terrace,9/11/2017,9/14/2017,8/6/2017,12:00,11:00,23fb7c88-52f9-40b0-bb0f-1c1cd657c63a,HMEHCMCAQH,airbnb,Yes,2,0,397
+Lizzie Willis,lizzie-avmbdb6qwtzrr8u6@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/11/2017,9/14/2017,8/20/2017,12:00,11:00,3ceebf51-f465-4cac-8042-776a08afc644,HMJ5HARBM9,airbnb,Yes,2,0,418
+Henriette Selch,henriette-ifnjkzo00vgjxrqu@guest.airbnb.com,San Polo (carampane),9/11/2017,9/13/2017,8/13/2017,12:00,11:00,4f825ba7-60c1-4ca6-8892-b19846a452dd,HMRXWDRYQ8,airbnb,Yes,2,0,262
+Maria Earl,maria-yln44fl87idyuktu@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",9/10/2017,9/16/2017,8/30/2017,12:00,11:00,2ef76fe1-4ba0-4505-9db7-e1a3df64af1a,HMYSBHMESY,airbnb,Yes,2,0,887
+Aseneth Camacho,aseneth-i9ezhmy3gcaknerf@guest.airbnb.com,San Polo (carampane),9/8/2017,9/10/2017,7/20/2017,12:00,11:00,e521ad9b-3352-498b-9720-bab646ba6643,HMF5HBPX48,airbnb,Yes,2,0,231
+Andrea Callanan,andrea-xoko9soac2t80to5@guest.airbnb.com,Ibiza: Canto de los pajaros 2,9/9/2017,9/16/2017,9/2/2017,12:00,11:00,09409075-6add-4d15-81ba-3a75abe3c0e4,HM8BMN8FAB,airbnb,Yes,3,0,931
+Junia Casagrande,junia-dmy06tw5yc1zfge8@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/9/2017,9/11/2017,7/19/2017,12:00,11:00,d7775947-20c4-4179-bdad-03cc02cb3045,HMBQM8MMH4,airbnb,Yes,4,0,408
+Camil Bartetzko,camil-abqdqkj298slrd0m@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/8/2017,9/11/2017,7/30/2017,12:00,11:00,6d6c5209-fc11-4d88-a4f5-147fd61960ea,HMTJF8YNBN,airbnb,Yes,2,0,419
+Denise Sharp,denise-mkfta6blt4m94z0t@guest.airbnb.com,Ibiza: Canto de los pajaros 2,9/7/2017,9/9/2017,7/11/2017,12:00,11:00,7560c62d-a0ef-48c4-a241-7a64b1a893d6,HMNYKSTN4K,airbnb,Yes,4,0,270
+Rachael Henning,rachael-gclc6wyrp3ao64jc@guest.airbnb.com,San Polo (carampane),9/6/2017,9/8/2017,8/15/2017,12:00,11:00,19c7dade-2bad-46df-8c9d-fbd88b65f49b,HM2H4T2DTT,airbnb,Yes,1,0,253
+Lacy Daigle,lacy-o293ky3r5igptjyd@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/7/2017,9/9/2017,8/31/2017,12:00,11:00,adf1b88b-5b67-4487-bc6b-35bc5f8173b5,HMFYRB8RAX,airbnb,Yes,2,0,311
+Guy Porter,guy-8rrhpcnpv3b1kzeg@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/5/2017,9/8/2017,8/26/2017,12:00,11:00,e0311d4b-2515-450a-b192-70ca638e92cb,HMZE3SJYN8,airbnb,Yes,2,0,419
+Stephan Schroeders,stephan-i5q75emobs3jc4km@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",9/8/2017,9/10/2017,9/4/2017,12:00,11:00,225e45de-30a5-4340-afc9-71ef83839d3f,HMR9PYY2YQ,airbnb,Yes,1,0,232
+Yu Wang,yu-n69e6sawb1ia0902@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/2/2017,9/4/2017,7/20/2017,12:00,11:00,d66fd93d-c060-4767-afaa-3444f92e5a67,ZR2X4F,airbnb,Yes,4,0,372
+Ichiro Yoshida,ichiro-c4jxtmjiaoanjbyq@guest.airbnb.com,San Polo (carampane),9/2/2017,9/6/2017,7/15/2017,12:00,11:00,ba15d897-ed55-446c-aca7-c98ff01066c8,HM9PRZ9MXH,airbnb,Yes,2,0,525
+Fred Lebain,fred-a7jn6m5lkjrlqcp8@guest.airbnb.com,Rialto Terrace,9/4/2017,9/7/2017,8/25/2017,12:00,11:00,c9118153-ae49-46f7-b3a4-a5849d508683,HMDYDTNW98,airbnb,Yes,2,0,386
+Kelly McGee,kelly-xmzyrb1s4ncecv34@guest.airbnb.com,Rialto Terrace,8/31/2017,9/3/2017,7/14/2017,12:00,11:00,0a9035d8-2ab2-4019-b732-c966fa61007d,HMCFXRSXDF,airbnb,Yes,2,0,455
+Indiana Production,indiana-djdhstcr6paxtth0@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/2/2017,9/5/2017,7/28/2017,12:00,11:00,c7372545-cf99-468d-99b1-c5054a404b7d,HMHXFSZ4TE,airbnb,Yes,4,0,586
+Robert Redfearn,robert-f2gnefgdxo5thhdf@guest.airbnb.com,San Polo (carampane),8/30/2017,9/2/2017,8/2/2017,12:00,11:00,e6346b7e-778a-4f69-9a72-6aef03df0fc7,HMP8EZPPWM,airbnb,Yes,2,0,319
+Daniel Turcan,daniel-9a5rucuquf3garx9@guest.airbnb.com,Emanuelas Apt (Mondo Novo),8/30/2017,9/1/2017,8/1/2017,12:00,11:00,6b327f91-9e24-4250-8541-e2434b62cd5c,HM5FF4YKDQ,airbnb,Yes,2,0,274
+"Sebastián Munar Siquier",sebastian-h17vjizch0iammmw@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",9/1/2017,9/5/2017,8/19/2017,12:00,11:00,abb301cf-a36f-4787-a7eb-8eeda6848b0e,HMN9HCRHRB,airbnb,Yes,1,0,482
+Carlos Solorzano,carlos-y6aiss0oe2dnw9sp@guest.airbnb.com,Emanuelas Apt (Mondo Novo),8/26/2017,8/28/2017,7/30/2017,12:00,11:00,48930fc1-9e99-4c5e-8316-62fa0ccaa494,HMDNDKQHTM,airbnb,Yes,4,0,355
+Annie,398097113-not-valid@airbnb.com,Rialto Terrace,8/28/2017,8/31/2017,8/23/2017,12:00,11:00,1d68019c-c6b8-4c79-9a32-bfc9dec2dbcc,HMDBFRJ2WN,airbnb,Yes,2,0,286
+Bradie Winders,bradie-s24hbtej8avnhd0o@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/27/2017,8/29/2017,8/27/2017,12:00,11:00,144484bf-40d3-415b-a820-db846811fa05,HM4RRWC83B,airbnb,Yes,3,0,276
+Fanxiang Xu,fanxiang-1cuxl2midysna5pr@guest.airbnb.com,San Polo (carampane),8/26/2017,8/28/2017,7/28/2017,12:00,11:00,34276b23-9d7f-4ab6-88a9-e8a6029f63bc,HMBCADRNZB,airbnb,Yes,2,0,215
+Gillian,391502329-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),9/14/2017,9/19/2017,8/11/2017,12:00,11:00,fb96bfe3-a1cf-460f-81fe-8911a67aeff5,fb96bfe3-a1cf-460f-81fe-8911a67aeff5,airbnb,No,2,0,795
+Daniel Martinez,daniel-qlxkfvx27mh3gtc1@guest.airbnb.com,Rialto Terrace,8/25/2017,8/27/2017,7/14/2017,12:00,11:00,20934b10-d249-4a1d-8574-182a246da9c8,HMQPSPZCCH,airbnb,Yes,2,0,312
+Brian Scios,brian-5hn2zqveka953eyw@guest.airbnb.com,San Polo (carampane),8/23/2017,8/25/2017,8/15/2017,12:00,11:00,2774b0e4-4216-4e6d-8a6f-d7738ebef14a,HM24YAA3EJ,airbnb,Yes,2,0,206
+Shuvra Das,shuvra-ae7spfmj99msjn4a@guest.airbnb.com,San Polo (carampane),8/20/2017,8/22/2017,7/30/2017,12:00,11:00,51762586-dad8-42aa-9e8f-99d20d0a5f84,HMFAX2JF3N,airbnb,Yes,3,0,252
+Laetitia,laetitia-vi5np7yv7lkyn4s0@guest.airbnb.com,Rialto Terrace,9/4/2017,9/8/2017,7/22/2017,12:00,11:00,391e6b29-c218-42cd-93e0-c8a4a45323fd,HM9KB59YWY,airbnb,No,2,0,546
+Suman,395993496-not-valid@airbnb.com,Rialto Terrace,9/27/2017,9/29/2017,8/19/2017,12:00,11:00,2891736e-e4b3-44fa-97b6-0ee4e658b7c0,2891736e-e4b3-44fa-97b6-0ee4e658b7c0,airbnb,No,2,0,268
+Dm,dm-syvlgaaju3nlvkex@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/16/2017,8/19/2017,7/26/2017,12:00,11:00,dc19ce1d-6623-4cc6-b17d-972f318b9664,HMXAKF5NA5,airbnb,Yes,4,0,533
+Anna,393878464-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),8/21/2017,8/25/2017,8/15/2017,12:00,11:00,9740aa79-53b7-44fb-a3eb-2f07e0a4816f,9740aa79-53b7-44fb-a3eb-2f07e0a4816f,airbnb,No,2,0,446
+Pedro J Asensio,pedroj-8uicmdiwwg3prcj8@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",8/17/2017,8/20/2017,7/25/2017,12:00,11:00,99655cdc-6002-4811-87de-2bf8adac1d06,HMBPF4RMWP,airbnb,Yes,2,0,357
+Nathan Mathews,nathan-m58ps84vtsfrsyds@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/12/2017,8/14/2017,7/14/2017,12:00,11:00,9a34a4d8-0855-43c4-a1b2-a47acb93d54b,HMM944MB94,airbnb,Yes,5,0,410
+Faraj Eldarov,faraj-gyifolhrd9anmx1z@guest.airbnb.com,Emanuelas Apt (Mondo Novo),8/11/2017,8/13/2017,8/1/2017,12:00,11:00,26da2e53-cefb-463b-8bb9-5075d99b423d,HM9DSBRERY,airbnb,Yes,3,0,274
+Sebastiano Muffato,sebastiano-05u8r07h2hnzwvy6@guest.airbnb.com,Ibiza: Canto de los pajaros 3,8/10/2017,8/19/2017,7/11/2017,12:00,11:00,0c4feedf-c98c-449f-8cd5-16456e35236f,HM98X3AJRD,airbnb,Yes,2,0,1042
+Niklas Holfelder,niklas-6etz25uhddv7esom@guest.airbnb.com,San Polo (carampane),8/11/2017,8/14/2017,8/1/2017,12:00,11:00,d89b7357-e4c7-487b-bd4d-99a6eb961891,HMKQEHF4PK,airbnb,Yes,2,0,291
+Doriane,doriane-0npuq26dmqtqo8a6@guest.airbnb.com,Ibiza: Canto de los pajaros 2,8/10/2017,8/13/2017,7/26/2017,12:00,11:00,b21d826d-1696-489a-8431-9de95bd877f1,HMQ9TQF55H,airbnb,Yes,2,0,521
+Leslie,388817411-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",8/12/2017,8/14/2017,8/7/2017,12:00,11:00,8f5067f4-3ea1-43df-a499-4ee1ac4b37e8,HMZQYC5YZ4,airbnb,Yes,2,0,328
+Thiag Loganathan,thiag-cdfsy3cc26qlpnjy@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/6/2017,8/9/2017,7/20/2017,12:00,11:00,fb2f707c-fda1-4bf4-88e3-f77a07008344,HMQYQPPPF5,airbnb,Yes,5,0,591
+Charlotte Brandhorst,charlotte-v75hn2cfwinw455j@guest.airbnb.com,Ibiza: Canto de los pajaros 3,8/4/2017,8/10/2017,7/15/2017,12:00,11:00,6dbe156a-0dff-4be1-a3b6-c56a34040813,HM98SZ53Y9,airbnb,Yes,2,0,810
+Koen,348891301-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/18/2017,7/22/2017,7/11/2017,10:00,9:00,7460feb9-1cf2-4213-9de5-03f0ce184e48,7460feb9-1cf2-4213-9de5-03f0ce184e48,airbnb,No,4,0,775
+Michele,348371687-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,8/14/2017,8/22/2017,7/11/2017,10:00,9:00,6e921054-edb9-4135-89e1-833c07cec4e0,6e921054-edb9-4135-89e1-833c07cec4e0,airbnb,No,2,0,941
+Jill,347919301-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/21/2017,7/23/2017,7/11/2017,10:00,9:00,958ba72d-c11b-487f-b6ec-1e5348463d94,958ba72d-c11b-487f-b6ec-1e5348463d94,airbnb,No,3,0,399
+Carlos,345499341-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/17/2017,7/21/2017,7/11/2017,10:00,9:00,6c25ea61-e568-4868-8055-bc104a2d0944,6c25ea61-e568-4868-8055-bc104a2d0944,airbnb,No,4,0,730
+Melisa,338637523-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,9/1/2017,9/3/2017,7/11/2017,10:00,9:00,be68b5c1-c575-49ac-b43b-9c3b492d80d7,be68b5c1-c575-49ac-b43b-9c3b492d80d7,airbnb,No,2,0,205
+Michela,333548770-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,8/17/2017,8/19/2017,7/11/2017,10:00,9:00,ce6244b7-430b-409b-9663-8557f7dc2697,ce6244b7-430b-409b-9663-8557f7dc2697,airbnb,No,3,0,604
+Cristina,333264045-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,8/21/2017,8/25/2017,7/11/2017,10:00,9:00,e6446c40-8fee-4ead-baa1-c7a38498cda1,e6446c40-8fee-4ead-baa1-c7a38498cda1,airbnb,No,1,0,1140
+Gema,333044737-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,9/3/2017,9/6/2017,7/11/2017,10:00,9:00,2922baf9-50ab-4340-a1c5-aca6f6242451,2922baf9-50ab-4340-a1c5-aca6f6242451,airbnb,No,2,0,308
+Valentina,332672960-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/19/2017,7/22/2017,7/11/2017,10:00,9:00,5dbe7fd0-b9c2-4834-be95-ff9bad0e06b3,5dbe7fd0-b9c2-4834-be95-ff9bad0e06b3,airbnb,No,4,0,604
+AmaiaUnai,332185169-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,9/2/2017,9/10/2017,7/11/2017,10:00,9:00,0a7e2e4b-80ed-4e11-97a5-11f18f4d79c8,0a7e2e4b-80ed-4e11-97a5-11f18f4d79c8,airbnb,No,2,0,882
+Melisa,332432603-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,9/4/2017,9/7/2017,7/11/2017,10:00,9:00,3194a878-adb6-4662-b798-b85d33d5dd55,3194a878-adb6-4662-b798-b85d33d5dd55,airbnb,No,2,0,376
+Carolina,332047882-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/18/2017,7/25/2017,7/11/2017,10:00,9:00,6c094bee-a828-4894-bc8c-ae350b808171,6c094bee-a828-4894-bc8c-ae350b808171,airbnb,No,2,0,1037
+Sarah,331696497-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,7/19/2017,7/27/2017,7/11/2017,10:00,9:00,4fe79fd3-9b37-43d0-9ad7-60955798f3a5,4fe79fd3-9b37-43d0-9ad7-60955798f3a5,airbnb,No,2,0,588
+Franco,331605589-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,8/15/2017,8/19/2017,7/11/2017,10:00,9:00,5b0fb42c-f69d-49ec-a583-940c1a6a97b9,5b0fb42c-f69d-49ec-a583-940c1a6a97b9,airbnb,No,2,0,547
+Inés,331711122-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/21/2017,7/27/2017,7/11/2017,10:00,9:00,9269f6d2-cb6e-4863-a26e-ac60b429392b,9269f6d2-cb6e-4863-a26e-ac60b429392b,airbnb,No,3,0,900
+Natacha,331718146-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,8/7/2017,8/17/2017,7/11/2017,10:00,9:00,8c4dea6a-f36f-4909-bc4b-6ec90f73775e,8c4dea6a-f36f-4909-bc4b-6ec90f73775e,airbnb,No,4,0,3192
+Nicky,331962876-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,7/16/2017,7/19/2017,7/11/2017,10:00,9:00,f5328815-0019-48df-bcdd-0d17cbba5a71,f5328815-0019-48df-bcdd-0d17cbba5a71,airbnb,No,2,0,410
+Ane,331222201-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,8/9/2017,8/17/2017,7/11/2017,10:00,9:00,10e93f6b-73ec-4698-9cd9-9b4522b3eef0,10e93f6b-73ec-4698-9cd9-9b4522b3eef0,airbnb,No,2,0,941
+Polina,326486474-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",8/6/2017,8/18/2017,7/11/2017,10:00,9:00,a8654460-05b0-47ee-8b7c-1c663f08fd5e,a8654460-05b0-47ee-8b7c-1c663f08fd5e,airbnb,No,2,0,2964
+Rita,326192486-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/22/2017,7/26/2017,7/11/2017,10:00,9:00,97cf827d-480b-4350-bec9-25802244fd50,97cf827d-480b-4350-bec9-25802244fd50,airbnb,No,2,0,650
+Maria,321685292-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/21/2017,7/30/2017,7/11/2017,10:00,9:00,eb743eed-50ad-401b-939c-25c0d8ecfa21,eb743eed-50ad-401b-939c-25c0d8ecfa21,airbnb,No,1,0,1368
+Luigi,322133732-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/29/2017,8/5/2017,7/11/2017,10:00,9:00,affd363a-d43c-40f9-bfd8-1bd3ea5be30e,affd363a-d43c-40f9-bfd8-1bd3ea5be30e,airbnb,No,2,0,1037
+Alejandro,319402501-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",8/1/2017,8/14/2017,7/11/2017,10:00,9:00,7a23f033-d433-4295-b93b-e87a689b848e,7a23f033-d433-4295-b93b-e87a689b848e,airbnb,No,2,0,2804
+Jessica,319446207-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/28/2017,8/3/2017,7/11/2017,10:00,9:00,66a0d883-4322-468c-913a-44f9ac7da1a0,66a0d883-4322-468c-913a-44f9ac7da1a0,airbnb,No,2,0,730
+Enzo,319611794-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",8/14/2017,8/28/2017,7/11/2017,10:00,9:00,b31a2e61-7c4b-4c1c-a1c2-2d97280375ba,b31a2e61-7c4b-4c1c-a1c2-2d97280375ba,airbnb,No,2,0,3100
+Patri,319598911-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/11/2017,7/19/2017,7/11/2017,10:00,9:00,fae9fb02-9724-4700-b443-87bd156a0d0f,fae9fb02-9724-4700-b443-87bd156a0d0f,airbnb,No,2,0,1163
+Alvaro,319303549-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",7/27/2017,8/3/2017,7/11/2017,10:00,9:00,09eb085e-a272-4b3f-b606-47b4ff1cb743,09eb085e-a272-4b3f-b606-47b4ff1cb743,airbnb,No,2,0,889
+Su Su,461481905-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),3/30/2018,4/3/2018,1/22/2018,12:00,11:00,136823e4-d109-40c7-b5ca-5609d2d649b3,136823e4-d109-40c7-b5ca-5609d2d649b3,airbnb,No,4,0,766
+"victor Manuel  González de la Fuente",vfuent.685566@guest.booking.com,"Loft Giove 1, Las Canteras",2/1/2018,2/4/2018,1/24/2018,15:00,10:00,8052aa4a-53f3-4f31-b4df-a530df79e3da,booking.com-1238816015,Booking.com,Yes,1,0,157
+RODNEY RAMOS,rramos.550981@guest.booking.com,Brunello House,5/9/2018,5/16/2018,1/25/2018,16:00,11:00,e28e0252-ff5e-462e-983f-1ef7387e27e5,booking.com-1395306059,Booking.com,Yes,2,0,490
+Esther Torrecilla López,etorre.306925@guest.booking.com,Brunello House,4/27/2018,5/1/2018,1/25/2018,16:00,11:00,8fcf1d7e-14a5-4e66-a3c1-ebf93f4e0b89,booking.com-1045972386,Booking.com,Yes,2,0,280
+Jordan Ormshaw,jormsh.571064@guest.booking.com,Brunello House,4/20/2018,4/23/2018,1/24/2018,16:00,11:00,74452740-724d-4886-887b-11081176eb1f,booking.com-2039505040,Booking.com,Yes,2,0,210
+meltem baysal,mbaysa.355581@guest.booking.com,San Polo (carampane),4/29/2018,5/1/2018,1/24/2018,12:00,11:00,fcb961db-39ad-4afa-8b07-857a98c4792c,booking.com-1205555491,Booking.com,Yes,3,0,298
+Ruby Anne,ruby-mgh0tj55b3ia6e4g@guest.airbnb.com,"Loft Giove 1, Las Canteras",2/8/2018,2/13/2018,11/22/2017,15:00,10:00,945f45b6-ce54-4044-9673-2927419a19cf,HMBZ333DHE,airbnb,Yes,2,0,267
+Gioia Fimo,booking.com-1261181851@booking.com,"Green Flat, Empoli",4/20/2018,4/22/2018,12/29/2017,16:00,11:00,077c77b1-56cd-4a01-91b9-12ce1fdb85bb,booking.com-1261181851,Booking.com,No,2,0,0
+Amadou tijane dieng et tacko gadio,adieng.346414@guest.booking.com,"Loft Giove 1, Las Canteras",2/16/2018,3/6/2018,1/18/2018,15:00,10:00,883ffdf1-9ce6-4cef-ba8a-6b14ba7041f1,booking.com-1859260293,Booking.com,No,2,0,0
+booking.com,noreply-mail@booking.com,"Loft Marte 5, Las Canteras",1/22/2018,1/22/2018,1/22/2018,15:00,10:00,20998153-ecc0-4af1-ae17-cbc7040b13d5,20998153-ecc0-4af1-ae17-cbc7040b13d5,Email,No,0,0,0
+Sylvie Laferriere,slafer.599732@guest.booking.com,Brunello House,1/28/2018,1/31/2018,1/22/2018,15:00,10:00,604b6fbe-cc52-4787-b81b-2369ab26cdc6,booking.com-1535235827,Booking.com,Yes,2,0,150
+Vanderson Silva,vanderson-eegdlra7kyn8du9d@guest.airbnb.com,"Green Flat, Empoli",3/11/2018,3/13/2018,1/18/2018,15:00,10:00,9b67bb02-4226-48bc-8af1-496c1b9e167a,HM9XHR8FXC,airbnb,No,2,0,123
+Elisangela,460387772-not-valid@airbnb.com,"San Gimignano Home, Licia",7/11/2018,7/14/2018,1/19/2018,16:00,11:00,35400ae0-e854-43f6-ae72-ee598ee307ab,35400ae0-e854-43f6-ae72-ee598ee307ab,airbnb,No,4,0,330
+Sandra,460636128-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),7/1/2018,7/3/2018,1/20/2018,12:00,11:00,940075a4-5993-444e-a07f-99a2e60e2c6d,HMXKWRD8XA,airbnb,Yes,3,0,350
+Urko Irazabal Puelles,urko irazabal puelles <ce516ba5-f52e-49c5-ac97-80252b8f1b86@messages.homeaway.com>,,1/19/2018,1/19/2018,,,,306be53f-cbdc-426a-94f2-18e909c680c5,306be53f-cbdc-426a-94f2-18e909c680c5,VRBO,No,0,0,0
+Veronique,459575103-not-valid@airbnb.com,"San Gimignano Home, Cinzia",7/18/2018,7/24/2018,1/17/2018,16:00,11:00,acf225c3-22aa-49ce-a984-838b3d54c485,acf225c3-22aa-49ce-a984-838b3d54c485,airbnb,No,4,0,587
+Maddalena,459370405-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,4/27/2018,4/30/2018,1/17/2018,12:00,11:00,e55d0a0e-351a-4882-a7f6-cc309e06d22f,HMX2PERSE4,airbnb,Yes,2,0,251
+Irene,459456978-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),2/9/2018,2/11/2018,1/17/2018,11:00,10:00,76637c8b-818a-4d29-952b-9f876f117600,76637c8b-818a-4d29-952b-9f876f117600,airbnb,No,5,0,508
+"IGOR ERMOLAEV,IULIA ERMOLAEVA",,Brunello House,3/22/2018,3/27/2018,10/29/2017,15:00,11:00,fd8d9e52-69cd-4629-b946-94851dd08882,booking.com-2039366852,Booking.com,No,2,0,0
+Caragh,450336400-not-valid@airbnb.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,3/30/2018,4/5/2018,12/21/2017,11:00,10:00,f358a9f1-3b59-4161-a2de-3be278813597,f358a9f1-3b59-4161-a2de-3be278813597,airbnb,No,1,0,745
+LETIZIA LOCICERO,llocic.565419@guest.booking.com,"Green Flat, Empoli",2/19/2018,2/22/2018,1/18/2018,15:00,10:00,7e742b4a-6cc0-427e-952f-b67980e7951b,booking.com-1938226929,Booking.com,Yes,2,0,165
+clare stalley,cstall.553064@guest.booking.com,Ibiza: Villa Eden,7/1/2018,7/7/2018,8/8/2017,14:00,10:00,ebc54203-c8ff-45fa-9ec6-2408a8fad2fe,booking.com-1923353628,Booking.com,No,7,0,0
+Karim Seikaly,karim-mwbqrc104m730n8c@guest.airbnb.com,Santa Croce Apartment (Giacomo),5/24/2018,5/26/2018,1/17/2018,12:00,11:00,4218f188-4b87-4a71-8d6e-e389cec3dbea,HMNBJRNZ2W,airbnb,Yes,5,0,446
+Eve Brière,ebrier.187777@guest.booking.com,Brunello House,1/17/2018,1/22/2018,1/16/2018,15:00,10:00,e5ad80f6-f83b-4b3f-8186-3f3ffc72d638,booking.com-2033747566,Booking.com,Yes,2,0,145
+Christine LEVEILLE,clevei.452746@guest.booking.com,Brunello House,4/4/2018,4/7/2018,1/16/2018,16:00,11:00,9ac0cabe-503a-4306-887d-a5643275d2e9,booking.com-1230879418,Booking.com,Yes,2,0,210
+Gianluca Mazzetti,gianluca-zhqdopqpiyagaa4i@guest.airbnb.com,Brunello House,1/26/2018,1/28/2018,1/16/2018,15:00,10:00,0cf25a89-391f-4673-9b75-c58fe5488bf2,HMNT3BYPH4,airbnb,No,2,0,110
+Georg Fabricius,gfabri.227810@guest.booking.com,"Loft Giove 1, Las Canteras",2/16/2018,2/19/2018,12/20/2017,15:00,10:00,f4f1672e-11ef-4683-9f3e-9dcdb6ff6070,booking.com-1231098955,Booking.com,No,2,0,0
+MIRIAM ZAMARRIEGO,booking.com-1860527859@booking.com,"Green Flat, Empoli",1/24/2018,1/27/2018,10/18/2017,15:00,10:00,da3f640c-efd8-43c7-8f6c-d67c54784692,booking.com-1860527859,Booking.com,Yes,2,0,135
+Jessica  Zirondelli,jziron.699336@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/20/2018,1/23/2018,1/15/2018,10:00,9:00,a7c1a76a-0b2e-4519-933e-d3ac101cd171,booking.com-1175724558,Booking.com,Yes,2,0,226
+Claudia Guerrazzi,booking.com-1261191354@booking.com,"Green Flat, Empoli",6/30/2018,7/7/2018,12/29/2017,16:00,11:00,fe07c5c7-b7a3-4768-87f9-79edfefa7a3f,booking.com-1261191354,Booking.com,Yes,1,0,245
+Galina Tretyakova,gtrety.431050@guest.booking.com,Brunello House,4/13/2018,4/16/2018,1/14/2018,16:00,11:00,8c681c28-0626-4808-ab55-1103041d5ac3,booking.com-1571759274,Booking.com,Yes,2,0,210
+Bastiaan,457816823-not-valid@airbnb.com,"San Gimignano Home, Licia",6/11/2018,6/25/2018,1/13/2018,16:00,11:00,c2cad711-aeb3-4193-b458-15ed0b5e8adc,c2cad711-aeb3-4193-b458-15ed0b5e8adc,airbnb,No,2,0,848
+Samuel García,sgarci.376457@guest.booking.com,Ibiza: Canto de los pajaros 2,7/23/2018,7/30/2018,8/11/2017,12:00,11:00,966cbd9a-d2e1-4bc9-9cf8-d22d5a8f23e3,booking.com-1570944042,Booking.com,No,4,0,0
+Maria Sorrentino,scarri.885885@guest.booking.com,"Green Flat, Empoli",1/15/2018,1/19/2018,1/12/2018,15:00,10:00,49ed8147-8b74-46a3-894e-7a7a0ee1c77b,booking.com-1008925083,Booking.com,Yes,1,0,160
+Fabiana Tedesco,vbatti.479179@guest.booking.com,"Green Flat, Empoli",1/29/2018,2/3/2018,1/12/2018,15:00,10:00,f0d69fd4-8d47-4531-8d06-4adbed11de7f,booking.com-1008969728,Booking.com,Yes,1,0,200
+Dianna Louise Dela Guerra,booking.com-1514456290@booking.com,Brunello House,5/3/2018,5/6/2018,11/6/2017,16:00,11:00,cc5c807a-1e4a-4b30-b833-c20e1bc0e50d,booking.com-1514456290,Booking.com,Yes,2,0,210
+Robin Bellion,booking.com-1141230086@booking.com,"Green Flat, Empoli",10/1/2018,10/4/2018,10/27/2017,16:00,11:00,46b4f395-8f8f-4a38-9586-3b3546a2d86a,booking.com-1141230086,Booking.com,Yes,2,0,135
+James O &amp;#39;Hara,jhara.751431@guest.booking.com,"Loft Marte 5, Las Canteras",10/6/2018,10/13/2018,1/11/2018,16:00,11:00,cf96e61e-0129-40ac-af0d-c30ff562d3f6,booking.com-2054136729,Booking.com,Yes,2,0,595
+Rebecca Cassity,rebecca-7mkpydi8dk2v14x8@guest.airbnb.com,Santa Croce Apartment (Giacomo),4/14/2018,4/16/2018,1/11/2018,12:00,11:00,1409b091-e58c-480f-b0b3-e820ed4744dd,HMTKK8SYTP,airbnb,Yes,3,0,349
+Fatmir Sulo,fsulo.872182@guest.booking.com,Brunello House,1/26/2018,1/28/2018,1/4/2018,15:00,10:00,43b454d5-df3c-49fe-8c6e-7dca4faa9c34,booking.com-1254065346,Booking.com,No,4,0,0
+Rocco Centonze,rcento.440128@guest.booking.com,"Green Flat, Empoli",2/9/2018,2/12/2018,1/8/2018,15:00,10:00,be71dc7c-2a29-49ea-9955-7ef826e8bf34,booking.com-1961601047,Booking.com,Yes,2,0,165
+John Mcmanus,john-czcugk9hsbpukwzf@guest.airbnb.com,"Loft Marte 5, Las Canteras",1/7/2018,1/10/2018,11/24/2017,15:00,10:00,8846b0c9-08a0-40ca-b6d7-3e4a7d0c0bc0,HMWHKS4NWQ,airbnb,Yes,1,0,211
+Anthony Cordeiro,booking.com-2063487744@booking.com,Brunello House,4/20/2018,4/25/2018,11/5/2017,16:00,11:00,ece69936-21a9-4cc9-9fe8-fc7c948e9c8b,booking.com-2063487744,Booking.com,No,2,0,0
+Charlotte Borgart,cborga.662302@guest.booking.com,Emanuelas Apt (Mondo Novo),2/10/2018,2/12/2018,1/8/2018,11:00,10:00,6f9337ac-a5f9-4e1d-9a7e-5d843a209c3b,booking.com-1533726483,Booking.com,Yes,3,0,378
+An-Magritt Aamodt,anmagritt-ahmxh9aj8dxp6i8r@guest.airbnb.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,2/8/2018,2/14/2018,12/31/2017,10:00,9:00,4d95c419-c5f2-48fc-b815-1851e3818240,HM3MRDW483,airbnb,Yes,2,0,548
+Ketil Dingum,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/15/2018,1/20/2018,11/26/2017,10:00,9:00,7d243826-101e-41b4-9609-533e8d6471de,booking.com-2080859622,Booking.com,Yes,2,0,595
+Jonne Roth,,"Loft Marte 5, Las Canteras",1/10/2018,1/13/2018,1/7/2018,15:00,10:00,5070ac68-b523-4985-967f-d04838afba54,booking.com-2008795282,Booking.com,Yes,2,0,270
+Heinrich.-Martin Wetter,9faeacbd-a5c4-46e3-a282-005526fa59c8@messages.homeaway.com,,1/7/2018,1/7/2018,,,,842e06fa-7e54-4d91-bd6c-c580240ecc63,af975c1b8a19471c9cc946ab0e6e2452,HOMEAWAY_DE,No,2,0,0
+Heinrich.-Martin Wetter,c2eb29fa-715c-4a19-871f-059427ee09d0@messages.homeaway.com,,1/7/2018,1/7/2018,,,,10ee8367-8a56-45ed-8fdb-ab0666501f7a,f83d839e9f5f4c379bdf702e5e6420ab,HOMEAWAY_DE,No,2,0,0
+Vincenzo,454949316-not-valid@airbnb.com,"Green Flat, Empoli",1/16/2018,1/19/2018,1/6/2018,15:00,10:00,ee374c30-d3c0-4c76-b786-7c86ac95122b,ee374c30-d3c0-4c76-b786-7c86ac95122b,airbnb,No,1,0,121
+nicola rigamonti,nrigam.582987@guest.booking.com,Altana Venice Apartment,2/9/2018,2/11/2018,1/6/2018,11:00,10:00,5c4de7e0-6fff-4252-87e5-a88c85e50be2,booking.com-1947066360,Booking.com,Yes,4,0,358
+Giuseppe Tumminelli,gtummi.636108@guest.booking.com,Altana Venice Apartment,2/2/2018,2/5/2018,1/6/2018,11:00,10:00,9cfb253c-4c96-4b2a-b611-7f1ef1df8659,booking.com-1947085106,Booking.com,Yes,5,0,537
+Vincenzo Bosco,vbosco.186807@guest.booking.com,"Green Flat, Empoli",2/5/2018,2/9/2018,1/6/2018,15:00,10:00,82431c3b-23f2-4d4d-baa2-dcc24ce2302c,booking.com-1773313737,Booking.com,No,1,0,0
+SERGIO CASANOVA PLANES,splane.427755@guest.booking.com,Ibiza: Villa Eden,9/5/2018,9/12/2018,1/5/2018,14:00,10:00,a54e8fb7-faa3-4325-a15d-587c0cbb7332,booking.com-1959630249,Booking.com,Yes,7,0,2520
+Pia,453563915-not-valid@airbnb.com,"Green Flat, Empoli",1/3/2018,1/6/2018,1/2/2018,15:00,10:00,e1814ab7-0626-4b5a-af76-803977766dfe,e1814ab7-0626-4b5a-af76-803977766dfe,airbnb,No,1,0,115
+Gioia Fimo,booking.com-1187391690@booking.com,"Green Flat, Empoli",7/26/2018,7/30/2018,12/29/2017,16:00,11:00,e7b9a7d0-2e28-4582-aad6-53c2b64b4b20,booking.com-1187391690,Booking.com,Yes,2,0,180
+lidia sarnavska,booking.com-1902974100@booking.com,"Green Flat, Empoli",1/8/2018,1/10/2018,1/3/2018,15:00,10:00,00b08adf-310e-47e1-bedf-f2e144f50a58,booking.com-1902974100,Booking.com,Yes,1,0,60
+Martin,416164745-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",1/1/2018,5/31/2018,9/27/2017,11:00,11:00,c4f9d394-1147-4893-96ed-a017f5eb4aee,c4f9d394-1147-4893-96ed-a017f5eb4aee,airbnb,No,1,0,10359
+Gitte Moth,luna.the.moth@gmail.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/1/2018,1/7/2018,10/11/2017,10:00,9:00,8992d981-a293-49be-a390-e19592ca1dce,booking.com-1673972981,Booking.com,Yes,2,0,780
+Mike Cooper,mike-y388909n99cwweav@guest.airbnb.com,"Loft Venere 3, Las Canteras",3/24/2018,4/3/2018,11/2/2017,15:00,10:00,f62a5c79-da56-4b65-acb2-68a1ca32c7cc,HM9FRBAAF3,airbnb,Yes,2,0,593
+Steven Balestra,50bc2b52-9f7f-4e39-915e-69f77a3e0a18@messages.homeaway.com,,,,12/30/2017,,,18351d7f-87aa-48a5-8c7c-2d67d1b83c21,a3aefd2eeb784a24aa9822b164337220,HOMEAWAY_DE,No,2,0,0
+Charles,447408222-not-valid@airbnb.com,Rialto Terrace,12/28/2017,12/30/2017,12/10/2017,11:00,10:00,d22871b5-db15-4a3d-a5c7-b35d5cc4a624,d22871b5-db15-4a3d-a5c7-b35d5cc4a624,airbnb,No,2,0,268
+Clara,450375546-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,12/28/2017,1/2/2018,12/21/2017,11:00,10:00,4180413e-1c5a-463f-874d-1bd3f93d79b2,4180413e-1c5a-463f-874d-1bd3f93d79b2,airbnb,No,1,0,298
+Cipriano Puebla Rivera,cpuebl.335699@guest.booking.com,"Loft Venere 3, Las Canteras",1/10/2018,1/17/2018,12/29/2017,15:00,10:00,545c4c3d-94d4-44e8-ba54-3dff52228c3f,booking.com-1261145008,Booking.com,Yes,2,0,539
+Maria Teresa Rodriguez Rodriguez,booking.com-1889077844@booking.com,Brunello House,5/25/2018,5/28/2018,10/29/2017,16:00,11:00,6aac7d1c-0437-419e-bb38-07068a85df30,booking.com-1889077844,Booking.com,No,2,0,0
+Farij Abbas,farij-2q8b9rc6jnus3vdk@guest.airbnb.com,"Green Flat, Empoli",1/6/2018,1/9/2018,12/29/2017,15:00,10:00,9f879c3d-4529-4935-baca-28ef5bac1699,HMFTPFRRPB,airbnb,No,1,0,137
+Scott Weston,swesto.368761@guest.booking.com,Brunello House,3/31/2018,4/4/2018,12/28/2017,16:00,11:00,9ef75de9-2588-4257-89ef-f9e19d077730,booking.com-1534845530,Booking.com,Yes,2,0,280
+Taty,451718290-not-valid@airbnb.com,"Green Flat, Empoli",1/5/2018,1/7/2018,12/27/2017,15:00,10:00,b662eb29-0711-4492-b63a-0a60781f2d71,b662eb29-0711-4492-b63a-0a60781f2d71,airbnb,No,1,0,101
+olga aleksandrova,booking.com-1087741873@booking.com,Brunello House,2/22/2018,2/25/2018,11/7/2017,15:00,10:00,29c5602e-6db8-48b8-b3fd-a7886b1f0872,booking.com-1087741873,Booking.com,No,1,0,0
+Doris Hopp,doris-gas8ng8j75v0r01u@guest.airbnb.com,"Loft Giove 1, Las Canteras",12/28/2017,1/1/2018,11/2/2017,15:00,10:00,52fca176-c7fe-4b12-864c-ec63ee595952,HMZ9CNRHK5,airbnb,Yes,1,0,193
+Valeria,445141474-not-valid@airbnb.com,Brunello House,12/4/2017,12/8/2017,12/3/2017,15:00,10:00,523861ae-ec56-43cf-8038-00201fa6ab35,523861ae-ec56-43cf-8038-00201fa6ab35,airbnb,No,1,0,140
+Lucas Vasconcelos Vieira,booking.com-1441471579@booking.com,Brunello House,1/8/2018,1/11/2018,11/17/2017,15:00,10:00,56097a06-3ac1-44ab-ac46-789f4721cfb5,booking.com-1441471579,Booking.com,Yes,1,0,210
+Jocelyne,447411548-not-valid@airbnb.com,"San Gimignano Home, Cinzia",8/10/2018,8/19/2018,12/10/2017,16:00,11:00,4d9fae66-51a0-443c-b344-7ff84bd996c4,4d9fae66-51a0-443c-b344-7ff84bd996c4,airbnb,No,5,0,693
+Marcin Kuzmitowicz,,Emanuelas Apt (Mondo Novo),12/30/2017,1/1/2018,8/6/2017,11:00,10:00,20a1c2cc-cdd4-40a1-aa80-2c571eb63bca,booking.com-1657963092,Booking.com,Yes,3,0,398
+Mariangela Ponzetto,mariangela ponzetto <0b784229-a16d-4f1b-9d99-0849d76aad9a@messages.homeaway.com>,,12/18/2017,12/18/2017,,,,7ede530c-43b7-414d-acb0-bf312704a656,7ede530c-43b7-414d-acb0-bf312704a656,VRBO,No,0,0,0
+charlotte emmerig,cemmer.554901@guest.booking.com,Ibiza: Villa Eden,5/7/2018,5/15/2018,12/18/2017,14:00,10:00,8d31fa0a-584d-40b4-a685-7403a60182ba,booking.com-1567429996,Booking.com,Yes,7,0,2088
+Jane Manlove,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/23/2018,1/27/2018,11/8/2017,10:00,9:00,3a3cd031-e764-437c-9e8b-688d383ab653,booking.com-2053602931,Booking.com,Yes,2,0,480
+Lysander Bogert,lboger.982598@guest.booking.com,"Loft Marte 5, Las Canteras",1/31/2018,2/4/2018,12/18/2017,15:00,10:00,734fb30d-583c-42ee-859e-9c04e83626aa,booking.com-1969236293,Booking.com,Yes,2,0,300
+Mario Barone,mario-tjnyw3g8r6i5n84j@guest.airbnb.com,"Loft Marte 5, Las Canteras",12/25/2017,1/7/2018,11/2/2017,15:00,10:00,51ddef57-0409-4e87-b4ac-33217349638a,HM2TDZCZPN,airbnb,Yes,2,0,891
+Keijo Keranen,kkeran.253990@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/16/2017,12/19/2017,12/15/2017,10:00,9:00,e7629f01-75b8-4c9e-a4cf-4d76c8b2f0e9,booking.com-1014806804,Booking.com,Yes,2,0,165
+Sarah Fraser,booking.com-1747026269@booking.com,Ibiza: Villa Eden,12/28/2017,12/31/2017,6/10/2017,14:00,10:00,244fce47-10d9-427a-be7e-773ebd74b59a,booking.com-1747026269,Booking.com,No,7,0,0
+Flemming Hastrup Jensen,fjense.462413@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/8/2018,1/13/2018,12/14/2017,10:00,9:00,a2d92808-4e4f-441c-8220-b24d8ac5d5c9,booking.com-1317925361,Booking.com,Yes,2,0,445
+Marina Tkachuk,mtkach.386936@guest.booking.com,Brunello House,5/31/2018,6/7/2018,12/12/2017,16:00,11:00,09fd0dae-331d-497d-9c63-4ea1fbcc957c,booking.com-1233259279,Booking.com,No,3,0,0
+Stéphane soubre,cwatte.335935@guest.booking.com,Brunello House,6/7/2018,6/10/2018,12/11/2017,16:00,11:00,b9d0655c-1cde-407a-b059-cdfc9f6ffb24,booking.com-1837238261,Booking.com,Yes,2,0,210
+Rafa,447276014-not-valid@airbnb.com,"San Gimignano Home, Filippo",8/13/2018,8/18/2018,12/10/2017,16:00,11:00,b660db2c-cb08-42e6-868f-1019140d4b6a,HM9MFERWZY,airbnb,Yes,4,0,280
+Emmanuel BOSCA,booking.com-1224151950@booking.com,Brunello House,12/30/2017,1/6/2018,10/23/2017,15:00,10:00,0d4bc890-766e-49d9-9847-2c47767af84b,booking.com-1224151950,Booking.com,Yes,4,0,700
+Matteo,447125317-not-valid@airbnb.com,"Green Flat, Empoli",1/9/2018,1/12/2018,12/9/2017,15:00,10:00,a65198b3-c855-443c-9b95-4e0ac3f270d6,a65198b3-c855-443c-9b95-4e0ac3f270d6,airbnb,No,2,0,195
+Fabrizio Diana,fdiana.169281@guest.booking.com,San Polo (carampane),12/28/2017,12/30/2017,12/9/2017,11:00,10:00,b75a3a33-c0f4-4ff5-a238-f9134c07ca67,booking.com-1789815541,Booking.com,Yes,4,0,318
+Ute Hillje,ute-f2fb6n865mkro6t6@guest.airbnb.com,Emanuelas Apt (Mondo Novo),11/1/2017,11/5/2017,8/7/2017,11:00,10:00,9150bbe7-03a6-40f4-92d2-d54bdc841af7,HMHE88SZEH,airbnb,Yes,2,0,466
+Dilshad Rasho,drasho.691289@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/5/2017,12/9/2017,12/3/2017,10:00,9:00,0d25fd24-7de2-4309-84f3-b06506ba2578,booking.com-1760044853,Booking.com,Yes,2,0,196
+Birgit Henkel,birgit henkel <e1bc7b1c-a681-420a-8f90-68923c8323ac@messages.homeaway.com>,,10/12/2017,10/12/2017,,,,d3067c2b-1d36-4aa8-838d-a58121d6c1b2,d3067c2b-1d36-4aa8-838d-a58121d6c1b2,VRBO,No,0,0,0
+Sofia,441497681-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,11/29/2017,12/1/2017,11/23/2017,11:00,10:00,f69a8276-e3bb-421e-ab39-08abed0b1423,f69a8276-e3bb-421e-ab39-08abed0b1423,airbnb,No,1,0,88
+"Francisco Magán",booking.com-1575489060@booking.com,Brunello House,12/27/2017,12/30/2017,11/17/2017,15:00,10:00,19c4b351-f543-440e-b4af-baa13e427e4e,booking.com-1575489060,Booking.com,Yes,2,0,210
+stefania guidolin,booking.com-1887113962@booking.com,Brunello House,12/8/2017,12/10/2017,11/20/2017,15:00,10:00,345792fd-8c1c-419e-bc84-458295f3328c,booking.com-1887113962,Booking.com,Yes,3,0,160
+Maria De Prado,maria-c72o1plfhvhpnk8m@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",12/7/2017,12/9/2017,11/29/2017,11:00,10:00,48c2d73c-e2c0-48af-859d-9d32b08a2511,HM34Z4HKMQ,airbnb,Yes,2,0,165
+Lili Møller,lmolle.910534@guest.booking.com,"Loft Venere 3, Las Canteras",2/20/2018,2/27/2018,11/22/2017,15:00,10:00,ea1f58ee-3c7c-45ed-8112-86ebb0b643df,booking.com-1012469859,Booking.com,No,2,0,0
+Mirko Biancone,booking.com-1817992578@booking.com,Brunello House,6/15/2018,6/17/2018,11/21/2017,16:00,11:00,07564748-7586-4c09-9912-eca76c9845e1,booking.com-1817992578,Booking.com,Yes,3,0,160
+"Malgorzata Němcová",booking.com-1402723242@booking.com,Brunello House,6/24/2018,6/27/2018,11/6/2017,16:00,11:00,1d8936d6-b0c7-433a-836b-8663827d4b4a,booking.com-1402723242,Booking.com,Yes,4,0,270
+Laura Aiudi,booking.com-1515483314@booking.com,Brunello House,6/13/2018,6/15/2018,11/16/2017,16:00,11:00,7caf39f7-6b01-4d6a-8ec9-22d33c4acb52,booking.com-1515483314,Booking.com,Yes,2,0,140
+Meritxell Gascon,meritxell-nxggbg8rmm47av8m@guest.airbnb.com,Ibiza: Canto de los pajaros 2,12/6/2017,12/11/2017,11/28/2017,11:00,10:00,afd84408-d20c-4922-96e9-f0c89eedb562,HMXD853Y4P,airbnb,Yes,4,0,461
+Roberto Plaza,rplaza.968238@guest.booking.com,"Loft Marte 5, Las Canteras",11/28/2017,11/30/2017,11/27/2017,15:00,10:00,745e29fd-2367-4b58-be7b-35eca04dc5ef,booking.com-1266822259,Booking.com,Yes,1,0,168
+Carl,436033312-not-valid@airbnb.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,2/14/2018,2/19/2018,11/9/2017,10:00,9:00,ccfc73cc-307b-4214-bc98-4e93b423bdc9,HM54PHNDJN,airbnb,Yes,2,0,460
+Philippe,439586209-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),1/1/2018,1/5/2018,11/26/2017,11:00,10:00,4adddc54-4b30-4d28-9b1f-287a9e311239,4adddc54-4b30-4d28-9b1f-287a9e311239,airbnb,No,5,0,828
+"Barbara Fuchte, Jörg Fuchte",bfucht.292724@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,2/23/2018,3/2/2018,11/25/2017,10:00,9:00,6da4b858-5fdf-47f2-bbe1-f21948fb76da,booking.com-1250081013,Booking.com,Yes,2,0,833
+Javier Trujillo,javier trujillo <877f9758-30c5-4356-9b33-35d1fc29367d@messages.homeaway.com>,,11/25/2017,11/25/2017,,,,a29b7041-75bd-4121-8a3f-d8788fdcdc37,a29b7041-75bd-4121-8a3f-d8788fdcdc37,VRBO,No,0,0,0
+Magdalena Goretti Hernandez Zamora,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/30/2017,1/1/2018,11/24/2017,10:00,9:00,f26ae44c-f376-4ed3-b0a7-716d1c5f4dc8,booking.com-1602660163,Booking.com,Yes,2,0,250
+Gabriela,441308921-not-valid@airbnb.com,Brunello House,11/26/2017,11/29/2017,11/23/2017,15:00,10:00,25ea450f-c19f-4707-9707-2d6a587c453d,25ea450f-c19f-4707-9707-2d6a587c453d,airbnb,No,1,0,124
+Laura ORTIZ RODRIGUEZ,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/20/2017,12/23/2017,11/16/2017,10:00,9:00,7558600e-7f1e-46f8-b452-6036e2d90789,booking.com-1631164232,Booking.com,Yes,2,0,237
+Alex  Roger,aroger.755904@guest.booking.com,"Loft Marte 5, Las Canteras",11/27/2017,11/29/2017,11/21/2017,15:00,10:00,e29e776f-647e-4447-82d8-01902cea3850,booking.com-1685788972,Booking.com,No,2,0,0
+Benjamin Rivero Hyde,965a9c1c-b10d-49a0-abcc-a6c5edb0e2ca@messages.homeaway.com,,,,11/20/2017,,,ef9c09f9-2821-42d3-acf3-8b6bf0ae98b7,ae9abee1a8d546ddbf6f3bc8222f9829,HOMEAWAY_ES,No,3,0,0
+solveig niven,sniven.711252@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/7/2018,1/10/2018,11/20/2017,10:00,9:00,86b24ef1-b88e-4c0b-a452-0b63db43c12c,booking.com-1420711339,Booking.com,No,2,0,0
+Angela Ryan,a053161f-f705-4f7e-bbbf-8ab85aa88a10@messages.homeaway.com,,,,11/19/2017,,,e2c155bc-9756-40bb-847e-07cb25cd3118,84d212f7505944c4a81be32106221906,HOMEAWAY_UK,No,4,0,0
+Päivi Nurmento,paivi-mmt4s68lph67n18x@guest.airbnb.com,"Loft Marte 5, Las Canteras",2/16/2018,2/23/2018,11/2/2017,15:00,10:00,0bfc5bb5-e9b3-4118-bc76-0ed0a6959789,HMAAY3PPSM,airbnb,Yes,2,0,494
+Tuomas Latvala,tlatva.737333@guest.booking.com,"Loft Marte 5, Las Canteras",2/6/2018,2/13/2018,11/18/2017,15:00,10:00,6c98937e-4ce1-4707-ba1e-60efa9c950e0,booking.com-1008157896,Booking.com,Yes,2,0,630
+Azzurra Itri,azzurra-tusniefn222oqq4c@guest.airbnb.com,San Polo (carampane),10/10/2017,10/12/2017,10/9/2017,12:00,11:00,5c8ecd6d-2bb6-4588-849f-aa1b4bbda184,HMNPEXNMP3,airbnb,Yes,2,0,196
+Isaure Lagrange,isaure-60oalu7wkjyqib9r@guest.airbnb.com,Rialto Terrace,11/24/2017,11/27/2017,9/28/2017,11:00,10:00,44a484f0-3476-4d3d-92cb-74786a2d6f5c,HMCMFXDCXK,airbnb,No,2,0,360
+Christina,437228870-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,1/1/2018,1/6/2018,11/12/2017,11:00,10:00,fc15bfbb-5cfc-4d03-9a29-46270910c1e0,fc15bfbb-5cfc-4d03-9a29-46270910c1e0,airbnb,No,1,0,286
+Maria Jose Marrero,ecc25223-6fe1-4146-9a71-d97c9b6d42d0@messages.homeaway.com,,,,10/26/2017,,,86ce7099-a919-4dc1-88e2-bb55d5ff25f9,dc7f24fe449443e58f9dec090f91c68e,HOMEAWAY_ES,No,2,0,0
+Valerio,437148878-not-valid@airbnb.com,Brunello House,12/1/2017,12/3/2017,11/12/2017,15:00,10:00,8e57d618-b4cf-4f54-bba6-9842836b7064,8e57d618-b4cf-4f54-bba6-9842836b7064,airbnb,No,1,0,82
+Bernadette Hoens,a821edef-f43c-4469-abd2-2c5be9536cbc@messages.homeaway.com,,,,11/13/2017,,,eccb46f4-2431-4ac9-8421-60996dd2f893,feb515e3a3904235be2b49eb0701fdc2,HOMEAWAY_DE,No,2,0,0
+Tokeet Inc,receipts+u8dnysv9fzd3gty1zmj6@stripe.com,,7/12/2017,7/12/2017,7/12/2017,,,99fc92c0-9bc4-4371-888d-7596960f827c,596600e3d3c38_1c06a5b6f809791e@monsterworkersbox--061d92ba2c0293a70.northwest.stripe.io.mail,Email,No,0,0,0
+Nils Martin Andersen,ihveem.643580@guest.booking.com,"Loft Marte 5, Las Canteras",3/3/2018,3/17/2018,11/12/2017,15:00,10:00,98849bb1-1cd6-4f2b-9991-da41dcee26db,booking.com-2016129856,Booking.com,Yes,2,0,1260
+Marina Louviers,mlouvi.638987@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,11/30/2017,12/3/2017,11/11/2017,10:00,9:00,d4e37e4b-5137-492c-9186-2fee61582ffe,booking.com-1256970830,Booking.com,Yes,2,0,237
+Marco,435986561-not-valid@airbnb.com,"Green Flat, Empoli",11/26/2017,11/30/2017,11/9/2017,15:00,10:00,6ebfdcf2-7861-4a22-83f4-ead7506e4da5,6ebfdcf2-7861-4a22-83f4-ead7506e4da5,airbnb,No,2,0,257
+Vanessa Boschini,vbosch.782564@guest.booking.com,Altana Venice Apartment,12/30/2017,1/1/2018,11/10/2017,11:00,10:00,82a78f18-3cb8-4af4-9603-cf19139398e5,booking.com-1313551437,Booking.com,Yes,4,0,558
+Pascale Dumairie,pdumai.741129@guest.booking.com,Altana Venice Apartment,11/10/2017,11/12/2017,11/10/2017,11:00,10:00,8ea9145a-f411-48e4-b157-74a85a022f53,booking.com-1313520456,Booking.com,Yes,2,0,340
+Reno,428529839-not-valid@airbnb.com,San Polo (carampane),11/8/2017,11/11/2017,10/23/2017,11:00,10:00,46d89dfb-f5bf-4a86-97d7-ec1ede63f631,46d89dfb-f5bf-4a86-97d7-ec1ede63f631,airbnb,No,2,0,335
+Néstor  Rodríguez Miranda,nmiran.959548@guest.booking.com,"Loft Marte 5, Las Canteras",12/22/2017,12/25/2017,11/8/2017,15:00,10:00,1f840b28-3a9c-46d6-bb72-e8fbea741bb9,booking.com-1136192432,Booking.com,Yes,2,0,270
+Stefano Poli,stefano-y5xwfce8i4im0qah@guest.airbnb.com,Ibiza: Canto de los pajaros 3,7/5/2017,7/13/2017,7/11/2017,10:00,9:00,5f5f497d-2244-42ce-b2f0-dd64fed81bcd,HM3W4HPTEY,airbnb,Yes,2,0,578
+Alberto Godenzi,alberto-w5yg3osj0j1ii0qm@guest.airbnb.com,Rialto Terrace,11/8/2017,11/12/2017,9/26/2017,11:00,10:00,f569f453-5f84-4a3f-b3ca-732b73c29a0b,HMADSDSTAP,airbnb,Yes,1,0,295
+Angela Jamieson,angela-mqei9oqhz5oq8hml@guest.airbnb.com,"Loft Marte 5, Las Canteras",2/13/2018,2/16/2018,11/4/2017,15:00,10:00,98d7805a-a627-4650-9c9a-e148b1e5de03,HMXNH93E3D,airbnb,Yes,2,0,247
+Laurent Palmisano,674e0e5f-c75f-4e37-8da9-7daac9649260@messages.homeaway.com,,,,11/6/2017,,,75aa0a88-c64b-4253-a25a-4a3b8f5c5b21,151f635f673d458f84b81b59089841c5,HOMELIDAYS_FR,No,2,2,0
+joaquin zaton,jzaton.980746@guest.booking.com,"Loft Giove 1, Las Canteras",11/6/2017,11/10/2017,11/3/2017,15:00,10:00,438919fe-0734-4521-8696-e4382415d05a,booking.com-1047220644,Booking.com,No,1,0,0
+Mary-Ellen Twomey,mtwome.492769@guest.booking.com,Rialto Terrace,3/30/2018,4/2/2018,11/4/2017,12:00,11:00,94cf67f4-efbc-4b12-88b7-1879bdf664b9,booking.com-1517369986,Booking.com,Yes,2,0,372
+Christophe LYAN,clyan.625997@guest.booking.com,Rialto Terrace,2/10/2018,2/15/2018,11/5/2017,11:00,10:00,e304a2fd-f89a-4a61-bb19-9d38f99423d3,booking.com-1189179166,Booking.com,Yes,2,0,620
+Radboud,429730985-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,11/2/2017,11/14/2017,10/25/2017,11:00,10:00,6d85085c-2c1f-4d2a-b42a-0b9d478b1733,6d85085c-2c1f-4d2a-b42a-0b9d478b1733,airbnb,No,2,0,620
+Francesco,433556582-not-valid@airbnb.com,Brunello House,11/26/2017,11/29/2017,11/3/2017,15:00,10:00,b9b98fd1-841f-4033-8197-c101c7572ad0,b9b98fd1-841f-4033-8197-c101c7572ad0,airbnb,No,1,0,175
+Carlo Alberto Savoia,carloalber-45d5ig8s5d44tcpd@guest.airbnb.com,"Loft Venere 3, Las Canteras",11/13/2017,11/17/2017,11/2/2017,15:00,10:00,39607e49-49fa-4563-ab7b-a758eb9075a9,HMRECHSXF9,airbnb,Yes,2,0,283
+Max Hopp,max-ir6c470hm6foost8@guest.airbnb.com,"Loft Giove 1, Las Canteras",1/1/2018,1/28/2018,11/2/2017,15:00,10:00,24a6f911-6a76-4c0b-a036-e479dc119e8e,HM95J32Z29,airbnb,Yes,2,0,1560
+Isaac ,213699968-not-valid@airbnb.com,"San Gimignano Home, Serena",8/13/2016,8/18/2016,11/2/2017,16:00,11:00,35fa2c6e-d3a9-4731-8673-b87f136a739b,SXW8DB,airbnb,Yes,3,0,300
+Valeria ,240656451-not-valid@airbnb.com,"San Gimignano Home, Serena",9/1/2016,9/5/2016,11/2/2017,16:00,11:00,4b2e809c-ac5f-4745-ac39-fb0076307248,W9TAP4,airbnb,Yes,4,0,193
+Fulvio ,249559787-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",10/8/2016,10/12/2016,11/2/2017,15:00,10:00,ddbb5663-84fe-46ad-a251-2c0a29a17730,5QXC9X,airbnb,Yes,2,0,216
+Magdalena ,237305800-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",10/15/2016,10/23/2016,11/2/2017,16:00,11:00,7a8a8998-cc16-45dd-a7d5-c9439024232f,55A4KA,airbnb,Yes,2,0,464
+Adrian ,244512230-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",10/17/2016,10/24/2016,11/2/2017,15:00,10:00,2f4d5534-3a95-46c6-8316-d54a5b6a99db,DD4RDB,airbnb,Yes,2,0,379
+Baptiste ,255336507-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",10/27/2016,10/30/2016,11/2/2017,15:00,10:00,58e9227e-39ea-4f53-ba33-4b19b0e7fab1,3C82E8,airbnb,Yes,2,0,159
+Gary ,251505654-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",11/1/2016,11/6/2016,11/2/2017,15:00,10:00,85353e25-57de-4eea-9df0-57360a428ffb,HFMHM8,airbnb,Yes,2,0,270
+Johanna ,235174899-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",11/14/2016,11/23/2016,11/2/2017,15:00,10:00,b392b39b-fb17-44ab-babb-cc44a6559f55,SSARKS,airbnb,Yes,3,0,511
+Joanna ,246731343-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",11/19/2016,11/25/2016,11/2/2017,15:00,10:00,bc099b91-f1fd-4ff8-8586-cdaf3e9f7e50,44QAQN,airbnb,Yes,2,0,322
+Julia ,262494751-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",11/25/2016,11/30/2016,11/2/2017,15:00,10:00,3c2ec0a3-01f4-4e1f-b471-0bb689fb294d,QPQE29,airbnb,Yes,2,0,295
+Arto ,258283078-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",11/30/2016,12/9/2016,11/2/2017,15:00,10:00,abdafd38-0b25-4323-92bc-ff6c3b391f76,NBRQAZ,airbnb,Yes,2,0,498
+Riikka ,244071401-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",12/19/2016,12/24/2016,11/2/2017,15:00,10:00,65e1bd0f-24a9-45e9-bf07-004509df5ef8,R5WPQT,airbnb,Yes,2,0,298
+Libor ,251635441-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",12/21/2016,12/26/2016,11/2/2017,15:00,10:00,69eb23da-ec9b-431b-a62b-c892fff4273b,DTRCNP,airbnb,Yes,2,0,325
+David ,244798521-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",12/28/2016,1/5/2017,11/2/2017,15:00,10:00,5025ac46-3456-430d-b70c-7ffd5f610107,XREDZE,airbnb,Yes,2,0,460
+Tony ,254487396-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",1/6/2017,1/8/2017,11/2/2017,15:00,10:00,05fecbfb-ee1a-46c5-ab51-5c02787b74a4,N9KJKH,airbnb,Yes,2,0,145
+Grzegorz ,258200520-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",1/19/2017,1/23/2017,11/2/2017,15:00,10:00,eb280c74-81ad-4aa8-a269-4caa739e5ca9,PH2DRB,airbnb,Yes,3,0,209
+Alba ,285120712-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",1/17/2017,1/23/2017,11/2/2017,15:00,10:00,260a7928-0fec-45d9-9264-0e4af8a51848,5PE5TM,airbnb,Yes,2,0,381
+Fredrik ,291608232-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",2/18/2017,2/25/2017,11/2/2017,15:00,10:00,d521e0c7-cdb7-492f-8162-f46b40e7a7cf,H44HAW,airbnb,Yes,3,0,598
+Matthias ,282782370-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",2/18/2017,2/25/2017,11/2/2017,15:00,10:00,83649937-85c2-44d8-9078-e16c3b20aad1,22SEWX,airbnb,Yes,2,0,484
+Constantin ,279979982-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",2/25/2017,3/4/2017,11/2/2017,15:00,10:00,d73273fa-e56e-4406-9a28-9f4f3b64b44c,EJ53F3,airbnb,Yes,2,0,381
+Ute ,284078377-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",3/4/2017,3/11/2017,11/2/2017,15:00,10:00,d29e8618-de9e-4c74-89de-9407b2c96f6d,CDHEZD,airbnb,Yes,2,0,383
+Mónica ,296931453-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",3/10/2017,3/15/2017,11/2/2017,15:00,10:00,24be2d1b-bbb1-4df4-be92-66aedf6954f8,XQR5TC,airbnb,Yes,2,0,284
+Melanie ,292642323-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",3/15/2017,3/19/2017,11/2/2017,15:00,10:00,bf73e2c8-6a87-4f25-8083-ecace86e6eb9,K2QWWP,airbnb,Yes,2,0,233
+Veronica ,301757475-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",3/12/2017,3/19/2017,11/2/2017,15:00,10:00,4e739a0c-08f4-480d-bd47-8cac225f8b08,DBDZJT,airbnb,Yes,2,0,384
+Maya ,304260867-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",3/20/2017,3/24/2017,11/2/2017,15:00,10:00,c5225c14-ce8d-4195-94b1-fa866629cfbf,SECSBJ,airbnb,Yes,2,0,230
+Marvin ,311309749-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",3/19/2017,3/25/2017,11/2/2017,15:00,10:00,c21ab740-6366-4d84-84c8-26448eee133f,HM5JE4MK2Y,airbnb,Yes,2,0,315
+Natallia ,283918009-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",3/25/2017,3/31/2017,11/2/2017,15:00,11:00,a4a67c56-0035-4c1b-b3a0-0abf6124349a,4S4SC4,airbnb,Yes,2,0,330
+Frode ,286264893-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",3/25/2017,4/1/2017,11/2/2017,15:00,10:00,1d7d35b3-55bd-497c-bca3-8e92e1dd2184,SWDHSE,airbnb,Yes,2,0,385
+Natasha ,308132443-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",3/31/2017,4/6/2017,11/2/2017,16:00,11:00,456b5758-2169-4d52-9dbc-61531f215c97,DDYNRX,airbnb,Yes,2,0,333
+Valentina ,283666985-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",4/7/2017,4/13/2017,11/2/2017,16:00,11:00,14829381-57aa-4c35-a564-ebc457b1d918,XS35WS,airbnb,Yes,2,0,332
+Silvia ,320152188-not-valid@airbnb.com,"San Gimignano Home, Serena",4/15/2017,4/18/2017,11/2/2017,16:00,11:00,8494b507-77ca-42eb-9d4b-e5a2ca89f380,HMZPAEDJDK,airbnb,Yes,4,0,168
+Tiberio ,300446400-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",4/12/2017,4/19/2017,11/2/2017,15:00,10:00,1b455f47-ce8d-4a49-841d-59ef4506f1eb,XMHCWF,airbnb,Yes,2,0,385
+Clay ,286815553-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",4/14/2017,4/22/2017,11/2/2017,16:00,11:00,f3aa93b0-ba5b-4938-aaa1-ba1d914dc348,4BMTNJ,airbnb,Yes,2,0,435
+Sabrina ,328363035-not-valid@airbnb.com,"San Gimignano Home, Serena",4/22/2017,4/25/2017,11/2/2017,16:00,11:00,e139e4d5-0d35-417f-9e41-4187058b9143,HMNP8PB3F5,airbnb,Yes,4,0,167
+Gerry ,304455013-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",4/21/2017,4/28/2017,11/2/2017,15:00,10:00,223aaed3-6b9d-4b7a-bcf7-e874d3f4caf7,FKWYAC,airbnb,Yes,1,0,382
+Olessia ,310308783-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",4/28/2017,5/12/2017,11/2/2017,15:00,10:00,bd0b8bc6-cacd-4da6-8fc5-abcfe28aa23a,HMYWCKZ4PZ,airbnb,Yes,2,0,742
+Sergej ,284946327-not-valid@airbnb.com,"Loft Marte 5, Las Canteras",4/29/2017,5/13/2017,11/2/2017,16:00,11:00,82b81eb4-1c8f-4fb5-bf6a-8b05622d46c4,QDHMWP,airbnb,Yes,2,0,797
+Sabine ,338672499-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",5/13/2017,5/20/2017,11/2/2017,15:00,10:00,3aa20b2d-da95-4f2c-841a-3313da4e5d2d,HMHCECT2B5,airbnb,Yes,1,0,208
+Erica ,340172175-not-valid@airbnb.com,"Loft Venere 3, Las Canteras",5/21/2017,5/28/2017,11/2/2017,15:00,10:00,798d0d26-4d54-44dd-bf15-4bd096d8efee,HMNZQ258X3,airbnb,Yes,2,0,246
+Harriet Brady,harriet-wbabup7qgabjz6ze@guest.airbnb.com,"Loft Venere 3, Las Canteras",12/18/2017,12/22/2017,11/2/2017,15:00,10:00,53da0982-9df3-40a2-b075-954dc16a2af6,HM28WNH3AT,airbnb,Yes,2,0,346
+Arnaud Miraton,arnaud-32629z520z999b3r@guest.airbnb.com,"Loft Venere 3, Las Canteras",11/1/2017,11/5/2017,11/2/2017,15:00,10:00,b8a692c4-14b1-4299-823a-e7de6e851244,HMSRX5CEYH,airbnb,Yes,2,0,280
+Sanya,431908435-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,10/30/2017,11/2/2017,10/30/2017,11:00,10:00,d28dff34-0f24-4387-830e-be2bc68fc5b8,d28dff34-0f24-4387-830e-be2bc68fc5b8,airbnb,No,2,0,170
+Agnes Luig,aluig.346367@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/6/2017,12/9/2017,10/27/2017,10:00,9:00,f11820c8-82d5-47b6-9bbf-3b247ba42ecf,booking.com-1556266869,Booking.com,No,2,0,0
+Eveline Notter Maurice,,Emanuelas Apt (Mondo Novo),10/22/2017,10/26/2017,9/10/2017,12:00,11:00,ebd12dba-f86d-4211-b593-6ff0cc034ddc,booking.com-1620677257,Booking.com,Yes,4,0,756
+Amir,427661880-not-valid@airbnb.com,San Polo (carampane),10/31/2017,11/2/2017,10/21/2017,11:00,10:00,1aac48b4-a5ba-47f6-9c21-bc9c5dff8735,HMNJA2QA8Z,airbnb,No,2,0,86
+Judit Margaix,cc4434f1-ac83-4655-9fe0-61709a1c4420@messages.homeaway.com,,,,10/26/2017,,,e9118967-641a-4b5d-8831-809362a3e5cb,da3ffbcb25e445ec878b3a3aad7460d5,HOMEAWAY_ES,No,2,0,0
+HomeAway.es,noreply@homeaway.es,,10/23/2017,10/23/2017,10/23/2017,,,9826656b-62d7-4e68-b93d-21446ce16118,4524c524bb1647be822e7f891fe5ea60@homeaway.com,Email,No,0,0,0
+Erica Durand,erica-4txfbtpsv4yz76sd@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/17/2017,10/21/2017,7/25/2017,12:00,11:00,25be372b-5716-47ef-9150-9adb535404b1,HMR84XTXXH,airbnb,Yes,2,0,540
+Ben Edmonds,booking.com-1291988718@booking.com,Ibiza: Villa Eden,10/15/2017,10/22/2017,4/13/2017,14:00,10:00,6a7d9b55-636f-447c-be77-d2151e2845a5,booking.com-1291988718,Booking.com,Yes,7,0,1648
+Brigitta Zics,brigitta-qi4h8gshp6zmo2g3@guest.airbnb.com,Santa Croce Apartment (Giacomo),10/21/2017,10/24/2017,9/5/2017,12:00,11:00,beae6dcb-649f-4749-b1bb-a9b6c29214c5,HMX2SYMXYA,airbnb,Yes,2,0,416
+Jamiel,425556374-not-valid@airbnb.com,San Polo (carampane),10/18/2017,10/20/2017,10/17/2017,12:00,11:00,9854824c-88c8-4aba-a312-1f186cf96f5a,9854824c-88c8-4aba-a312-1f186cf96f5a,airbnb,No,2,0,228
+Arwid,425426675-not-valid@airbnb.com,San Polo (carampane),10/18/2017,10/20/2017,10/17/2017,12:00,11:00,0361e919-3953-410b-9666-052b11d014a4,0361e919-3953-410b-9666-052b11d014a4,airbnb,No,2,0,228
+Arwid,425423461-not-valid@airbnb.com,San Polo (carampane),10/18/2017,10/20/2017,10/17/2017,12:00,11:00,50fb6ca7-fbab-4058-9df4-a4890c652066,50fb6ca7-fbab-4058-9df4-a4890c652066,airbnb,No,2,0,228
+Maeike Walstra,mwalst.525999@guest.booking.com,Ibiza: Villa Eden,10/22/2017,10/29/2017,9/23/2017,14:00,10:00,becf9ea0-62ee-494b-9f16-c3ff9cec7641,booking.com-1100727764,Booking.com,No,7,0,0
+svetlana batnikova,,San Polo (carampane),10/20/2017,10/22/2017,10/3/2017,12:00,11:00,7441f5c3-99ea-42cb-9dbc-2e7d733c4868,booking.com-2066155899,Booking.com,Yes,1,0,258
+Angelica,424202448-not-valid@airbnb.com,San Polo (carampane),10/16/2017,10/20/2017,10/14/2017,12:00,11:00,c22f1d8d-b577-494b-a6c6-e69f738d6d9d,c22f1d8d-b577-494b-a6c6-e69f738d6d9d,airbnb,No,3,0,391
+Fida,418362602-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,10/14/2017,10/18/2017,10/2/2017,12:00,11:00,808d281b-3568-4622-8c9a-178f6f3fbff1,808d281b-3568-4622-8c9a-178f6f3fbff1,airbnb,No,2,0,320
+Shaun Coombs,shaun-l01ur4iv5m08air9@guest.airbnb.com,Ibiza: Canto de los pajaros 3,10/14/2017,10/21/2017,10/10/2017,12:00,11:00,a366400d-d664-4133-b429-3140ab5b1b7c,HMRZH9ARBM,airbnb,Yes,2,0,507
+Patrice,409692185-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,10/10/2017,10/14/2017,9/14/2017,12:00,11:00,2349c101-6793-4f89-8809-bf1ae1048ad7,2349c101-6793-4f89-8809-bf1ae1048ad7,airbnb,No,2,0,340
+Ryan Henderson,ryan-qzgpvkt31xdxn4ii@guest.airbnb.com,Emanuelas Apt (Mondo Novo),10/8/2017,10/11/2017,8/7/2017,12:00,11:00,0b4710b5-f11b-43e5-b5d1-9074f1967e96,HMETKDYQNE,airbnb,Yes,2,0,433
+Willie,418810820-not-valid@airbnb.com,Ibiza: Canto de los pajaros 3,10/8/2017,10/14/2017,10/3/2017,12:00,11:00,5ccc5deb-412d-4a1c-b2ce-9a608afba972,5ccc5deb-412d-4a1c-b2ce-9a608afba972,airbnb,No,1,0,390
+Dustin Miller,dustin-rg0adi98bp6yjemt@guest.airbnb.com,Rialto Terrace,5/25/2018,5/27/2018,8/22/2017,12:00,11:00,6b744e80-8a28-4b7f-8f03-fd3060757cc6,HMM82R5PQ5,airbnb,Yes,2,0,265
+Yuanxin,412233805-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),10/17/2017,10/19/2017,9/19/2017,12:00,11:00,74dc3125-d726-4a7d-8ba5-8b84e39bdb02,74dc3125-d726-4a7d-8ba5-8b84e39bdb02,airbnb,No,4,0,390
+Hanne Hansen,hhanse.244374@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/27/2018,2/4/2018,10/8/2017,10:00,9:00,fd224c69-1e3c-4a6b-8487-f3272c42ce20,booking.com-1684547733,Booking.com,Yes,2,0,1112
+Jackie Rowson,jackie-zv4o0w15x2k9u52m@guest.airbnb.com,Santa Croce Apartment (Giacomo),9/29/2017,10/1/2017,7/14/2017,12:00,11:00,7bb51d48-a7ed-43d7-abf8-42106ab8594c,HM5HPB8XXA,airbnb,Yes,4,0,371
+javier agliata,jaglia.934306@guest.booking.com,Ibiza: Canto de los pajaros 2,8/6/2018,8/12/2018,8/4/2017,12:00,11:00,57a018f0-c015-4cd6-b3b4-6010e2da0da5,booking.com-1825443320,Booking.com,No,2,0,0
+Grace Xiaozhou Li,gracexiaoz-abxnqw9rjyldssif@guest.airbnb.com,San Polo (carampane),10/11/2017,10/13/2017,9/20/2017,12:00,11:00,7078d7e9-aab6-4019-97e4-08d41e402280,HM4W3H5QMF,airbnb,No,2,0,86
+LAURA MURILLO MONTENEGRO,lmonte.640110@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,10/21/2017,10/25/2017,10/3/2017,11:00,10:00,2517c09d-630e-4cf2-ac45-8d36a2a8c0e6,booking.com-1196636424,Booking.com,Yes,2,0,280
+Laura,418863468-not-valid@airbnb.com,Ibiza: Villa Eden,10/7/2017,10/8/2017,10/3/2017,14:00,10:00,ed37e282-7e0e-41dd-b1e8-5b6df962c3b8,ed37e282-7e0e-41dd-b1e8-5b6df962c3b8,airbnb,No,6,0,299
+Inma,394624693-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,10/1/2017,10/8/2017,8/16/2017,12:00,11:00,d8ee12ad-4a23-48b4-8e79-2209b0efc86b,d8ee12ad-4a23-48b4-8e79-2209b0efc86b,airbnb,No,1,0,550
+Matthew,417483557-not-valid@airbnb.com,Rialto Terrace,11/18/2017,11/21/2017,9/30/2017,11:00,10:00,b20199c5-8b1d-447e-84fd-f7eecba788f0,b20199c5-8b1d-447e-84fd-f7eecba788f0,airbnb,No,2,0,237
+Merle Buhler,merle-qi90vo4lb3ehp3ab@guest.airbnb.com,Ibiza: Canto de los pajaros 3,6/20/2018,6/27/2018,9/10/2017,12:00,11:00,95ff6404-7838-49e2-8164-b5505b4628c5,HM5QAWH98T,airbnb,Yes,2,0,536
+Guayarmina Escribano Afonso,guayarmina escribano afonso <8ffc77f5-ddbe-4b82-bbeb-39158e271c80@messages.homeaway.com>,,9/27/2017,9/27/2017,,,,49fdbcb2-9118-46b1-9216-355499413c8f,49fdbcb2-9118-46b1-9216-355499413c8f,VRBO,No,0,0,0
+Jokko,400286601-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",9/6/2017,9/12/2017,8/30/2017,12:00,11:00,261e22d6-9019-4a5b-aaf4-4d0c28f8830c,261e22d6-9019-4a5b-aaf4-4d0c28f8830c,airbnb,No,2,0,800
+Håkan Gribbling,hgribb.945030@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/23/2017,12/30/2017,9/27/2017,10:00,9:00,3e517ecd-ea9d-431e-8b64-2c86d1aa8584,booking.com-1995453178,Booking.com,Yes,2,0,910
+Dora,399695792-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),8/28/2017,8/30/2017,8/26/2017,12:00,11:00,76435374-a2e7-4dd2-8699-5ac18aab79d7,HMWWERTSXP,airbnb,Yes,4,0,312
+Ida Kenneth Fischer,,Ibiza: Villa Eden,10/8/2017,10/15/2017,4/21/2017,14:00,10:00,e42059a1-d75f-4eb7-b63a-dd46d9922667,booking.com-1615308251,Booking.com,Yes,7,0,1648
+Lada Semecka,lsemec.479268@guest.booking.com,Altana Venice Apartment,10/12/2017,10/14/2017,9/25/2017,12:00,11:00,ca04c3fb-d7bc-4dac-b732-8c5973868cbc,booking.com-1420296168,Booking.com,Yes,3,0,338
+Nils Vestling,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,11/13/2017,11/23/2017,8/27/2017,10:00,9:00,36c0b4c3-96a6-4e8a-8ca5-8069fc51fe94,booking.com-1609222778,Booking.com,Yes,2,0,790
+Deanna,403895426-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),9/27/2017,9/29/2017,9/3/2017,12:00,11:00,fe7f5f0b-195f-4777-a714-af0f3fb18068,fe7f5f0b-195f-4777-a714-af0f3fb18068,airbnb,No,4,0,350
+Valentino,411177877-not-valid@airbnb.com,San Polo (carampane),10/25/2017,10/28/2017,9/17/2017,12:00,11:00,e5c43918-d1d2-4e40-896a-be1b3c93af49,e5c43918-d1d2-4e40-896a-be1b3c93af49,airbnb,No,2,0,365
+Giovanella Valerie,410584518-not-valid@airbnb.com,"Ibiza: Canto de los pájaros 1",9/21/2017,9/24/2017,9/16/2017,12:00,11:00,cadf2b30-788f-4a88-8a53-3c4219a2c924,HMTSJFH3R4,airbnb,Yes,2,0,309
+Anna Gattermann,agatte.346634@guest.booking.com,Rialto Terrace,10/3/2017,10/5/2017,9/12/2017,12:00,11:00,f40de2aa-a4cb-4d21-8c7d-d18260dcadbb,booking.com-1512973036,Booking.com,Yes,2,0,278
+Gunilla Westin,,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,10/25/2017,11/1/2017,9/10/2017,11:00,9:00,7baa252f-0410-4bf3-a2d1-b5c0c8f233b3,booking.com-1576587395,Booking.com,Yes,2,0,553
+Julie,409895113-not-valid@airbnb.com,Rialto Terrace,10/17/2017,10/19/2017,9/14/2017,12:00,11:00,a9a9acbf-b429-4899-8e97-d2d92d5fc475,a9a9acbf-b429-4899-8e97-d2d92d5fc475,airbnb,No,2,0,250
+Katrina Delantar,katrina-1dyifplohda23v4z@guest.airbnb.com,Emanuelas Apt (Mondo Novo),9/24/2017,9/26/2017,9/16/2017,12:00,11:00,b3670712-f7db-416a-8295-77d79d863499,HM2DPE4JCT,airbnb,No,3,0,124
+Natasha Anderson,nander.490563@guest.booking.com,Ibiza: Canto de los pajaros 2,9/1/2017,9/7/2017,8/14/2017,12:00,11:00,c818e1b4-af57-4312-82ba-5b553b0d9d77,booking.com-1636462795,Booking.com,No,2,0,0
+Natasha Anderson,nander.775074@guest.booking.com,"Ibiza: Canto de los pájaros 1",9/16/2017,9/20/2017,8/16/2017,12:00,11:00,759127dc-ccd5-4752-8705-7d4b90a7d160,booking.com-1933342364,Booking.com,No,2,0,0
+Pier Edoardo Rovatti,pieredoard-t1huizp3grrzk2hz@guest.airbnb.com,Rialto Terrace,11/17/2017,11/19/2017,9/16/2017,11:00,10:00,5c69e362-6149-4b62-bc4c-820034abc4ef,HM2ASCQM32,airbnb,No,2,0,200
+Ute,409812013-not-valid@airbnb.com,Rialto Terrace,10/29/2017,11/4/2017,9/14/2017,11:00,10:00,6a084689-047b-4086-b115-dc2b2723914b,6a084689-047b-4086-b115-dc2b2723914b,airbnb,No,2,0,654
+Sophie Taron,sophie-bybpuzg3mq2qzk95@guest.airbnb.com,Ibiza: Canto de los pajaros 3,9/9/2017,9/14/2017,7/11/2017,12:00,11:00,7b533b4d-af02-4e2e-a0f4-bb5d0bc53339,HMTRJPYZFM,airbnb,Yes,2,0,473
+Magdalena Anna Migdal,mmigda.823940@guest.booking.com,San Polo (carampane),11/2/2017,11/4/2017,9/12/2017,11:00,10:00,419a0376-1957-4712-8099-afa432b310ca,booking.com-1805241437,Booking.com,Yes,3,0,220
+Jiraporn Pegues,jpegue.261091@guest.booking.com,San Polo (carampane),9/13/2017,9/15/2017,9/13/2017,12:00,11:00,d9675fcb-1fcb-4628-8ca7-aa45c1abe505,booking.com-1820219452,Booking.com,Yes,2,0,200
+Alix Rozo,7deb9504-92f6-4155-9f34-a77fa7b513a0@messages.homeaway.com,,,,9/12/2017,,,3a19ab82-99f1-4204-b355-3e1a889fd43b,d4000668aa2d41ac9b332ecd0f59a8c0,HOMEAWAY_ES,No,17,3,0
+Galina Rivkina,grivki.749937@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,9/29/2017,10/3/2017,9/12/2017,11:00,10:00,34f27099-ed7d-4258-ad7f-4084633af395,booking.com-1010309982,Booking.com,Yes,2,0,316
+Anne Räim,araim.438863@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,10/14/2017,10/21/2017,9/12/2017,11:00,10:00,2bf7c31c-bade-4f8c-a73d-5b9aa8e50997,booking.com-1298037793,Booking.com,Yes,2,0,553
+Maartje Vandewall-Hendriks,mvande.606104@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,11/8/2017,11/12/2017,9/11/2017,10:00,9:00,c2c93f37-6e49-4bed-ab8f-3632e6ac3b24,booking.com-1975151428,Booking.com,Yes,2,0,316
+Raiko Jimenez,rjimen.138991@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,9/22/2017,9/24/2017,9/10/2017,15:30,10:00,5b6e92ec-315d-4200-9225-d2257fd17a0b,booking.com-1920441275,Booking.com,Yes,2,0,158
+Pedro Pizarro Valderrama,pvalde.696933@guest.booking.com,Altana Venice Apartment,10/6/2017,10/8/2017,9/3/2017,12:00,11:00,2e50936a-bb45-4fda-bca9-9efbedcf0773,booking.com-1235351062,Booking.com,Yes,4,0,398
+Betty,407169883-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),10/25/2017,10/29/2017,9/9/2017,12:00,10:00,4788e4c3-4925-4464-a1f7-b974d844712f,4788e4c3-4925-4464-a1f7-b974d844712f,airbnb,No,5,0,806
+Bridget Sullivan,bridget-hut7hyxi2l4ietji@guest.airbnb.com,Rialto Terrace,9/8/2017,9/10/2017,7/14/2017,12:00,11:00,d809bcd0-707e-42e9-9056-36f2d15e7103,HM9KCW4E5E,airbnb,Yes,2,0,312
+manuel segarelli,msegar.789822@guest.booking.com,Ibiza: Villa Eden,9/5/2017,9/9/2017,9/5/2017,14:00,10:00,d561eba1-e9fa-4dd8-9ac3-0df708ec57ff,booking.com-1000281573,Booking.com,No,7,0,0
+Grégoire Schneider,gschne.995767@guest.booking.com,Rialto Terrace,10/20/2017,10/22/2017,9/5/2017,12:00,11:00,96be98d2-34d0-40b4-9c86-bc8b7d661597,booking.com-1584386162,Booking.com,Yes,2,0,278
+keld christiansen,kchris.653651@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,12/9/2017,12/16/2017,9/7/2017,10:00,9:00,dc746b2d-3c2a-49f4-adbf-4e186cc60383,booking.com-1177160507,Booking.com,Yes,2,0,693
+andrea ROUSSILLOU,arouss.298784@guest.booking.com,Altana Venice Apartment,10/27/2017,10/29/2017,9/6/2017,12:00,10:00,762116ba-94a5-4e91-b620-baf6ecf250e8,booking.com-1137155523,Booking.com,Yes,5,0,438
+Javier Calleja,javier-r15anuobvphowjx7@guest.airbnb.com,Ibiza: Canto de los pajaros 3,8/31/2017,9/6/2017,7/11/2017,12:00,11:00,4d97dff0-3c1f-4ba6-9d68-8193020e04db,HMPZEDFCHW,airbnb,Yes,2,0,531
+Maria jesus Casado,,Ibiza: Villa Eden,9/9/2017,9/16/2017,3/11/2017,14:00,10:00,50cfcc87-b30d-41ba-9caf-83520de3f68b,booking.com-1946403677,Booking.com,Yes,7,0,2526
+Heath,403193045-not-valid@airbnb.com,Rialto Terrace,10/18/2017,10/24/2017,9/2/2017,12:00,11:00,54b18f4d-7a39-454c-ad04-816d91147827,54b18f4d-7a39-454c-ad04-816d91147827,airbnb,No,2,0,744
+acomar ramos quintana,aquint.939817@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,9/7/2017,9/10/2017,9/4/2017,11:00,10:00,7d1d5061-13ee-4db9-bf86-eb68a998588c,booking.com-1368281377,Booking.com,Yes,2,0,237
+Joanne El-kilany,jelkil.597926@guest.booking.com,Ibiza: Canto de los pajaros 2,6/19/2018,6/23/2018,8/7/2017,12:00,11:00,cf30a76e-7d17-48fe-b8ad-c68cf1ec3c1a,booking.com-1541836579,Booking.com,Yes,1,0,540
+Silvia,400679860-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,9/2/2017,9/4/2017,8/30/2017,12:00,11:00,ae344267-43d1-4524-a6b6-8c56e6f97492,ae344267-43d1-4524-a6b6-8c56e6f97492,airbnb,No,2,0,260
+Eistetter Darinka,93325fcf-1223-4532-bee4-d1aaa0667d1c@messages.homeaway.com,,,,9/1/2017,,,9320ac9c-1f6c-40e4-b370-f7671fc469ea,a469e1442c854c7fbd6fba6fa9462584,HOMELIDAYS_ES,No,12,0,0
+Walter Van Dooren,wdoore.875859@guest.booking.com,San Polo (carampane),10/1/2017,10/10/2017,8/28/2017,12:00,11:00,a7dfe9e1-4220-4024-b39a-e1c1eb2de0f3,booking.com-1444958149,Booking.com,Yes,2,0,1314
+Fred Rousseaux,fred-8cl8d572pdt6oay5@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/25/2017,8/27/2017,8/25/2017,12:00,11:00,be1a1d17-dc4a-4f7d-bdf8-5b1f3ca17632,HM4P2PAWK9,airbnb,Yes,3,0,276
+Riz Zigliani,riz-glvr4upjpoq3vj6e@guest.airbnb.com,Ibiza: Canto de los pajaros 2,9/2/2017,9/4/2017,8/30/2017,12:00,11:00,7c67b21a-00ae-41a8-88ab-e74c144b6ea0,HMST4339TK,airbnb,Yes,1,0,251
+Maria Dubois,maria-zptiax2j2hnac3rd@guest.airbnb.com,Ibiza: Canto de los pajaros 2,8/27/2017,8/30/2017,7/11/2017,12:00,11:00,74140266-05ac-44b0-aabe-aeb34223d5c6,HMR823QZHP,airbnb,Yes,4,0,472
+Sarah Verhoeven,sarah-wxy2ay0avrd2mvp7@guest.airbnb.com,Ibiza: Canto de los pajaros 3,8/23/2017,8/30/2017,7/11/2017,12:00,11:00,1df23e7e-ab3d-4359-801d-f5127fe516fe,HM3TFPTFEA,airbnb,Yes,2,0,470
+MaJo Lopez,mlopez.775009@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,9/8/2017,9/10/2017,8/21/2017,11:00,10:00,ff22b884-5700-433e-b3d3-65117f8348b4,booking.com-1729957837,Booking.com,No,2,0,0
+GIOVANNI MANCINI,gmanci.170818@guest.booking.com,Ibiza: Canto de los pajaros 2,9/15/2017,9/17/2017,7/28/2017,10:00,9:00,98cfb9a7-3c3a-4b96-bba8-f4dcb61b189e,booking.com-1296959095,Booking.com,No,3,0,0
+Camille,401729155-not-valid@airbnb.com,Rialto Terrace,10/20/2017,10/22/2017,8/30/2017,12:00,11:00,0701f6f4-a32b-4a0b-8972-f2c6a2fcefd6,0701f6f4-a32b-4a0b-8972-f2c6a2fcefd6,airbnb,No,2,0,308
+aly aly,aaly.911999@guest.booking.com,Santa Croce Apartment (Giacomo),8/31/2017,9/2/2017,8/16/2017,12:00,11:00,c857bfc8-b8ec-4b1c-b683-5a30d6680444,booking.com-1470842496,Booking.com,Yes,5,0,405
+Arnaldo,391943066-not-valid@airbnb.com,San Polo (carampane),10/20/2017,10/22/2017,8/12/2017,12:00,11:00,4ea4ab3d-c006-455c-ad52-4c3e912da24c,4ea4ab3d-c006-455c-ad52-4c3e912da24c,airbnb,No,2,0,293
+Irene Vazquez,irene-locbcmj0medexydd@guest.airbnb.com,"Ibiza: Canto de los pájaros 1",8/22/2017,8/31/2017,7/11/2017,12:00,11:00,7eb09d20-6a28-48b4-a373-caddfb5bb872,HMT5EABJH9,airbnb,Yes,2,0,1041
+Agata Rakowska,arakow.164412@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,11/1/2017,11/8/2017,8/24/2017,10:00,9:00,b08bd45a-72af-449a-821c-aa2d3358c2c9,booking.com-1157675206,Booking.com,Yes,2,0,553
+Karen Hayes,khayes.378561@guest.booking.com,Gran Canaria Puerto Rico: Relax & Retreat in Amadores,1/21/2018,1/28/2018,8/10/2017,10:00,9:00,a887c02b-fb14-4137-abf9-295fe4bdc20e,booking.com-1196258495,Booking.com,No,2,0,0
+Andriy Zhylkin,andriy-81obhx0is54keqqi@guest.airbnb.com,Rialto Terrace,8/23/2017,8/25/2017,8/20/2017,12:00,11:00,ea15a90d-a890-4951-b8c2-3335d64946d6,HMDZMCQWMP,airbnb,Yes,2,0,201
+Laura Menei Domhoff,laura-1sgc7brp6lreif8c@guest.airbnb.com,Santa Croce Apartment (Giacomo),8/23/2017,8/25/2017,8/15/2017,12:00,11:00,a7e4009d-ead6-4cf1-a322-4009eacd2011,HMXEFMQATJ,airbnb,Yes,4,0,350
+Newfel Benchikh,newfel-c1ishzp6zwfgnaly@guest.airbnb.com,Ibiza: Canto de los pajaros 2,8/17/2017,8/21/2017,7/11/2017,12:00,11:00,6d171433-8c6e-466d-bad8-0d5e8dabe34b,HMQDN9AT4M,airbnb,Yes,3,0,631
+Jorge Velez,jvelez.849962@guest.booking.com,Emanuelas Apt (Mondo Novo),9/5/2017,9/7/2017,8/18/2017,12:00,11:00,dcbabf70-d8a5-405a-8f19-82c23303b9d3,booking.com-1403901589,Booking.com,Yes,3,0,378
+Gavin Young,gavin-8tqm3l3tbwhxnqot@guest.airbnb.com,Emanuelas Apt (Mondo Novo),8/21/2017,8/25/2017,8/17/2017,12:00,11:00,c65d6bcc-5652-4684-8f53-743eede021a6,HMBDFFTHMX,airbnb,Yes,2,0,425
+Cristina,333264045-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,8/21/2017,8/25/2017,7/11/2017,10:00,9:00,043a90b9-7b6d-415d-995d-7c0f55831323,043a90b9-7b6d-415d-995d-7c0f55831323,airbnb,No,1,0,1140
+Vineet,395627775-not-valid@airbnb.com,Santa Croce Apartment (Giacomo),8/19/2017,8/21/2017,8/18/2017,12:00,11:00,53c23399-9213-4d15-a9cd-578b52a83aa8,53c23399-9213-4d15-a9cd-578b52a83aa8,airbnb,No,4,0,335
+Lawrence Pope,lawrence-f5lvj6p2w5bcxvwm@guest.airbnb.com,San Polo (carampane),9/17/2017,9/19/2017,8/11/2017,12:00,11:00,148a3d5f-061b-43d6-9a92-e61e9135f8e0,HMR8JXXTSJ,airbnb,No,2,0,275
+Silvia Vera Ortiz,silvia-x15mtj3fz36mnzou@guest.airbnb.com,Ibiza: Canto de los pajaros 3,8/19/2017,8/23/2017,7/11/2017,12:00,11:00,a44ec1e1-ac06-4ede-8cf3-4a53dc88c9f2,HMHP8WZPHT,airbnb,Yes,2,0,463
+Ray,392568987-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),9/6/2017,9/9/2017,8/13/2017,12:00,11:00,8db15c4d-d06b-47d8-8d63-6374bf1b92e7,8db15c4d-d06b-47d8-8d63-6374bf1b92e7,airbnb,No,3,0,557
+Meinert Matzen,mmatze.395871@guest.booking.com,Emanuelas Apt (Mondo Novo),9/13/2017,9/16/2017,8/15/2017,9:00,6:00,6cd98006-bf1c-4a19-ae98-bc860e92c6c3,booking.com-1370115347,Booking.com,Yes,2,0,507
+Venizse Pauline Sudario,vsudar.706916@guest.booking.com,Altana Venice Apartment,8/19/2017,8/21/2017,8/12/2017,12:00,11:00,9562650c-5067-4a80-99bb-775431a043ba,booking.com-1654516121,Booking.com,No,3,0,0
+Kayoko,392034038-not-valid@airbnb.com,Emanuelas Apt (Mondo Novo),8/13/2017,8/17/2017,8/12/2017,12:00,11:00,8fa89e2f-c282-4d7a-956f-d6c1784ed2b5,HMCF959BW5,airbnb,Yes,2,0,425
+Michela,333548770-not-valid@airbnb.com,Ibiza: Canto de los pajaros 2,8/17/2017,8/19/2017,7/11/2017,10:00,9:00,72c4af36-480c-4694-bb33-d07f0e3128f4,72c4af36-480c-4694-bb33-d07f0e3128f4,airbnb,No,3,0,604

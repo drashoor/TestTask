@@ -29,7 +29,7 @@ class Task extends Model
 
     public function setDueAttribute($value)
     {
-        $this->attributes['due'] = Carbon::createFromFormat('Y-d-m', $value)->toDateTimeString();
+        $this->attributes['due'] = Carbon::createFromFormat('Y/m/d H:i:s', $value)->toDateTimeString();
     }
 
     public function getDueAttribute($value)

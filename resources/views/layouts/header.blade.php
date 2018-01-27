@@ -7,10 +7,10 @@
             <a href="{{ url('tasks') }}">Tasks</a>
         </li>
         <li>
-            <a href="#">Reports</a>
+            <a href="/rentals">Rentals</a>
         </li>
         <li>
-            <a href="#">Staff</a>
+            <a href="/inquiries">Inquiries</a>
         </li>
         {{--<li>
             <a href="#">Note/Notifications</a>
