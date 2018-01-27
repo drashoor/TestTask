@@ -13,7 +13,7 @@ class HomeTest extends TestCase
     public function test_user_can_visit_home_page()
     {
         $this->signIn();
-        $response = $this->get('/'); 
+        $response = $this->get('/');  
         $response->assertSuccessful();
     }
 
